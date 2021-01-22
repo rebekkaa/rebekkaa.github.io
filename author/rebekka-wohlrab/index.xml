@@ -5,7 +5,7 @@
     <link>https://rebekkaa.github.io/author/rebekka-wohlrab/</link>
       <atom:link href="https://rebekkaa.github.io/author/rebekka-wohlrab/index.xml" rel="self" type="application/rss+xml" />
     <description>Rebekka Wohlrab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rebekkaa.github.io/images/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_2.png</url>
       <title>Rebekka Wohlrab</title>
@@ -13,7 +13,23 @@
     </image>
     
     <item>
-      <title>Charting Coordination Needs in Large-Scale Agile Organisationswith Boundary Objects and Methodological Islands</title>
+      <title>Aligning Architecture with Business Goals in the Automotive Domain</title>
+      <link>https://rebekkaa.github.io/publication/bucaioni-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/bucaioni-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems</title>
+      <link>https://rebekkaa.github.io/publication/wohlrab-2021-refsq/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/wohlrab-2021-refsq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charting Coordination Needs in Large-Scale Agile Organisations with Boundary Objects and Methodological Islands</title>
       <link>https://rebekkaa.github.io/publication/kasauli-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://rebekkaa.github.io/publication/kasauli-2020/</guid>

@@ -1,0 +1,5 @@
+authors/*
+author/*
+*.bib
+*.txt
+sitemap.xml
