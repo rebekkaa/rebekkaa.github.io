@@ -5,12 +5,20 @@
     <link>https://rebekkaa.github.io/publication/</link>
       <atom:link href="https://rebekkaa.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2021</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2022</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rebekkaa.github.io/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://rebekkaa.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Towards an Approach for Run-Time Adaptation of Quality Attributes for Automated Planning</title>
+      <link>https://rebekkaa.github.io/publication/wohlrab-2022-seams/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/wohlrab-2022-seams/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Negotiation Support System for Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems</title>

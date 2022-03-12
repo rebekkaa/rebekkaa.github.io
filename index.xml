@@ -5,7 +5,7 @@
     <link>https://rebekkaa.github.io/</link>
       <atom:link href="https://rebekkaa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rebekka Wohlrab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2021</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2022</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rebekkaa.github.io/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
       <title>Rebekka Wohlrab</title>
@@ -28,6 +28,14 @@
       <description>&lt;p&gt;Would you like to get in touch?&lt;/p&gt;
 &lt;p&gt;You can reach me at &lt;a href=&#34;mailto:wohlrab@cmu.edu&#34;&gt;wohlrab@cmu.edu&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Towards an Approach for Run-Time Adaptation of Quality Attributes for Automated Planning</title>
+      <link>https://rebekkaa.github.io/publication/wohlrab-2022-seams/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/wohlrab-2022-seams/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -394,6 +402,7 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;strong&gt;[March 2022]&lt;/strong&gt; Our &lt;a href=&#34;https://conf.researchr.org/home/seams-2022&#34;&gt;SEAMS 2022&lt;/a&gt; paper got accepted: &lt;a href=&#34;https://rebekkaa.github.io/publication/wohlrab-2022-seams/&#34;&gt;Towards an Approach for Run-Time Adaptation of Quality Attributes for Automated Planning&lt;/a&gt;. Preprint coming soon!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[December 2021]&lt;/strong&gt; I&amp;rsquo;ve accepted to serve as an Industrial PC Co-Chair at &lt;a href=&#34;https://conf.researchr.org/home/ease-2022&#34;&gt;EASE 2022&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[November 2021]&lt;/strong&gt; Our journal paper &lt;a href=&#34;https://rebekkaa.github.io/publication/wohlrab-2021-rej/&#34;&gt;A Negotiation Support System for Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems&lt;/a&gt; got accepted to &lt;a href=&#34;https://www.springer.com/journal/766/&#34;&gt;Requirements Engineering&lt;/a&gt;. It&amp;rsquo;s an invited extension of our &lt;a href=&#34;https://rebekkaa.github.io/publication/wohlrab-2021-refsq/&#34;&gt;REFSQ&#39;21 paper&lt;/a&gt;. Check out the preprint &lt;a href=&#34;https://rebekkaa.github.io/files/2021_Wohlrab_utility_negotiation_accepted.pdf&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[September 2021]&lt;/strong&gt; I have accepted to serve on the program committee of &lt;a href=&#34;https://resources.sei.cmu.edu/news-events/events/icssp/&#34;&gt;ICSSP/ICGSE&#39;22&lt;/a&gt;, as well as of the &lt;a href=&#34;https://ase-workshop.github.io/2022/&#34;&gt;Automotive Software Engineering Workshop 2022&lt;/a&gt;.&lt;/p&gt;
