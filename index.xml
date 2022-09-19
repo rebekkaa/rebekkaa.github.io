@@ -5,12 +5,28 @@
     <link>https://rebekkaa.github.io/</link>
       <atom:link href="https://rebekkaa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rebekka Wohlrab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2022</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2022</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rebekkaa.github.io/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
       <title>Rebekka Wohlrab</title>
       <link>https://rebekkaa.github.io/</link>
     </image>
+    
+    <item>
+      <title>AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems</title>
+      <link>https://rebekkaa.github.io/publication/vierhauser-2022-jss/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/vierhauser-2022-jss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Cost-Benefit-Aware Adaptive Monitoring for Cyber-Physical Systems</title>
+      <link>https://rebekkaa.github.io/publication/vierhauser-2022-cns/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/vierhauser-2022-cns/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Run-Time Adaptation of Quality Attributes for Automated Planning</title>
@@ -302,6 +318,8 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; Very happy that our paper &lt;a href=&#34;https://rebekkaa.github.io/publication/vierhauser-2022-jss/&#34;&gt;AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems&lt;/a&gt; got accepted to the Journal of Systems and Software (JSS). It is based on a collaboration with Michael Vierhauser, Marco Stadler, and Jane Cleland-Huang.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; Our paper &lt;a href=&#34;https://rebekkaa.github.io/publication/vierhauser-2022-cns/&#34;&gt;Towards Cost-Benefit-Aware Adaptive Monitoring for Cyber-Physical Systems&lt;/a&gt; got accepted to the Conference on Communications and Network Security (CNS): Cyber Resilience Workshop (with Michael Vierhauser and Stefan Rass).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[July 2022]&lt;/strong&gt; I will be serving on the program committees for &lt;a href=&#34;https://conf.researchr.org/home/RE-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RE&#39;23&lt;/a&gt; and &lt;a href=&#34;https://icsa-conferences.org/2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA 2023&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[June 2022]&lt;/strong&gt; After two great years at CMU, I will be starting as an Assistant Professor at Chalmers University of Technology in August 2022. Very happy about this new position and I&amp;rsquo;m looking forward to returning to Sweden!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[April 2022]&lt;/strong&gt; I will be serving on the program committee for &lt;a href=&#34;https://conf.researchr.org/track/icse-2023/icse-2023-SEIP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSE SEIP 2023&lt;/a&gt;.&lt;/p&gt;
@@ -372,6 +390,31 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rebekkaa.github.io/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Thesis Topics</title>
+      <link>https://rebekkaa.github.io/theses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/theses/</guid>
+      <description>&lt;p&gt;You can find a list of possible thesis topics for MSc and BSc students below.
+Feel free to contact me if you have questions or want to discuss additional topics: &lt;a href=&#34;mailto:wohlrab@chalmers.se&#34;&gt;wohlrab@chalmers.se&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing a system to adapt quality attributes for autonomous systems.
+&lt;ul&gt;
+&lt;li&gt;Description: Autonomous systems (e.g., robots or vehicles) need to plan their actions under the consideration of multiple quality attributes. For instance, energy consumption, cost, performance, and safety need to be balanced and traded off against each other. We developed a preliminary system to collect feedback from users regarding what quality attributes are important for a system. The goal of this thesis is to design a system that helps human users express their (potentially changing) quality preferences and track how a running system meets their quality needs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Supporting continuous compliance in automotive companies. With Systemite AB, a design science study.&lt;/li&gt;
+&lt;li&gt;Developing a tool to explain architectural design alternatives and guide human decision-making for architects of automotive systems. In collaboration with Volvo Cars.&lt;/li&gt;
+&lt;li&gt;Investigating architectural change/stability based on tool data from automotive companies. In collaboration with Systemite AB.&lt;/li&gt;
+&lt;li&gt;Explaining tradeoffs in multi-objective security games.
+&lt;ul&gt;
+&lt;li&gt;Description: Adversarial environments are often modeled using game theory (e.g., as Markov games). In these games, defenders can use a variety of actions in cybersecurity-critical environments and typically need to trade off performance and cybersecurity. The aim of this thesis is to develop a data-driven approach that analyzes data from security games, elicits tradeoffs, and explains them to humans so that they can make better decisions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
