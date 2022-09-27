@@ -408,9 +408,9 @@ Feel free to contact me if you have questions or want to discuss additional topi
 &lt;li&gt;Supporting continuous compliance in automotive companies. With Systemite AB, a design science study.&lt;/li&gt;
 &lt;li&gt;Developing a tool to explain architectural design alternatives and guide human decision-making for architects of automotive systems. In collaboration with Volvo Cars.&lt;/li&gt;
 &lt;li&gt;Investigating architectural change/stability based on tool data from automotive companies. In collaboration with Systemite AB.&lt;/li&gt;
-&lt;li&gt;Explaining tradeoffs in multi-objective security games.
+&lt;li&gt;Supporting human decision-making in multi-objective cybersecurity scenarios.
 &lt;ul&gt;
-&lt;li&gt;Description: Adversarial environments are often modeled using game theory (e.g., as Markov games). In these games, defenders can use a variety of actions in cybersecurity-critical environments and typically need to trade off performance and cybersecurity. The aim of this thesis is to develop a data-driven approach that analyzes data from security games, elicits tradeoffs, and explains them to humans so that they can make better decisions.&lt;/li&gt;
+&lt;li&gt;The aim of this thesis is to develop a data-driven approach that analyzes data from cybersecurity attacks, elicits tradeoffs, and explains them to humans so that they can make better decisions when choosing mitigation strategies.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
