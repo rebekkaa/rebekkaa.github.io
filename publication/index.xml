@@ -5,12 +5,20 @@
     <link>https://rebekkaa.github.io/publication/</link>
       <atom:link href="https://rebekkaa.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2022</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2022</copyright><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rebekkaa.github.io/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://rebekkaa.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Explaining Quality Attribute Tradeoffs in Automated Planning for Self-Adaptive Systems</title>
+      <link>https://rebekkaa.github.io/publication/wohlrab-2022-jss/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/wohlrab-2022-jss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems</title>

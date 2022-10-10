@@ -5,12 +5,20 @@
     <link>https://rebekkaa.github.io/</link>
       <atom:link href="https://rebekkaa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rebekka Wohlrab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2022</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2022</copyright><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rebekkaa.github.io/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
       <title>Rebekka Wohlrab</title>
       <link>https://rebekkaa.github.io/</link>
     </image>
+    
+    <item>
+      <title>Explaining Quality Attribute Tradeoffs in Automated Planning for Self-Adaptive Systems</title>
+      <link>https://rebekkaa.github.io/publication/wohlrab-2022-jss/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/wohlrab-2022-jss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems</title>
@@ -318,8 +326,9 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;strong&gt;[October 2022]&lt;/strong&gt; Our paper &lt;a href=&#34;https://rebekkaa.github.io/publication/wohlrab-2022-jss&#34;&gt;Explaining Quality Attribute Tradeoffs in Automated Planning for Self-Adaptive Systems&lt;/a&gt; got accepted to the &lt;a href=&#34;https://www.sciencedirect.com/journal/journal-of-systems-and-software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Systems and Software (JSS)&lt;/a&gt;. You can find the preprint &lt;a href=&#34;https://rebekkaa.github.io/files/2022_explaining_tradeoffs.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; I will be serving on the program committee for &lt;a href=&#34;https://conf.researchr.org/home/seams-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEAMS 2023&lt;/a&gt;. We&amp;rsquo;re looking forward to your submissions!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; Very happy that our paper &lt;a href=&#34;https://rebekkaa.github.io/publication/vierhauser-2022-jss/&#34;&gt;AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems&lt;/a&gt; got accepted to the Journal of Systems and Software (JSS). It is based on a collaboration with Michael Vierhauser, Marco Stadler, and Jane Cleland-Huang.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; Very happy that our paper &lt;a href=&#34;https://rebekkaa.github.io/publication/vierhauser-2022-jss/&#34;&gt;AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems&lt;/a&gt; got accepted to the Journal of Systems and Software (JSS). It is based on a collaboration with Michael Vierhauser, Marco Stadler, and Jane Cleland-Huang. The preprint can be found &lt;a href=&#34;https://rumors-cloud.se.jku.at/s/KxDmEswqEw3g6Jm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; Our paper &lt;a href=&#34;https://rebekkaa.github.io/publication/vierhauser-2022-cns/&#34;&gt;Towards Cost-Benefit-Aware Adaptive Monitoring for Cyber-Physical Systems&lt;/a&gt; got accepted to the Conference on Communications and Network Security (CNS): Cyber Resilience Workshop (with Michael Vierhauser and Stefan Rass).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[July 2022]&lt;/strong&gt; I will be serving on the program committees for &lt;a href=&#34;https://conf.researchr.org/home/RE-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RE&#39;23&lt;/a&gt; and &lt;a href=&#34;https://icsa-conferences.org/2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA 2023&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[June 2022]&lt;/strong&gt; After two great years at CMU, I will be starting as an Assistant Professor at Chalmers University of Technology in August 2022. Very happy about this new position and I&amp;rsquo;m looking forward to returning to Sweden!&lt;/p&gt;
