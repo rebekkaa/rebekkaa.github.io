@@ -1,6 +1,5 @@
 authors/*
 author/*
-*.bib
 *.txt
 sitemap.xml
 .DS_Store
@@ -21,7 +20,6 @@ tag/boundary-objects/index.html
 tag/design-science/index.html
 tag/documentation/index.html
 tags/index.html
-publication/content/publication/wohlrab-2020-modeling/cite.bib
 old_sections/contact/index.html
 old_sections/experience/index.html
 old_sections/index.html
@@ -55,7 +53,6 @@ project/example/index.html
 project/index.html
 project/index.xml
 project/page/1/index.html
-sitemap.xml
 tag/agile-systems-engineering/index.html
 tag/boundary-objects/index.html
 tag/design-science/index.html
@@ -65,7 +62,6 @@ project/example/index.html
 project/index.html
 project/index.xml
 project/page/1/index.html
-sitemap.xml
 tag/agile-systems-engineering/index.html
 tag/boundary-objects/index.html
 tag/design-science/index.html
