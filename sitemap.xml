@@ -520,6 +520,96 @@
                 />
   </url>
   <url>
+    <loc>https://rebekkaa.github.io/tag/agile-systems-engineering/</loc>
+    <lastmod>2020-11-18T16:20:43+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://rebekkaa.github.io/tag/agile-systems-engineering/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rebekkaa.github.io/tag/boundary-objects/</loc>
+    <lastmod>2020-11-18T16:20:43+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://rebekkaa.github.io/tag/boundary-objects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rebekkaa.github.io/tag/design-science/</loc>
+    <lastmod>2020-11-18T16:20:43+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://rebekkaa.github.io/tag/design-science/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rebekkaa.github.io/tag/documentation/</loc>
+    <lastmod>2020-11-18T16:20:43+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://rebekkaa.github.io/tag/documentation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rebekkaa.github.io/publication/wohlrab-2019-jsme/</loc>
+    <lastmod>2020-11-18T16:20:43+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://rebekkaa.github.io/publication/wohlrab-2019-jsme/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rebekkaa.github.io/publication/steghofer-2019/</loc>
+    <lastmod>2020-11-18T16:20:08+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://rebekkaa.github.io/publication/steghofer-2019/"
+                />
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-11-18T16:20:43+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href=""
+                />
+  </url>
+    
+  <url>
+    <loc></loc>
+    <lastmod>2020-11-18T16:20:07+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href=""
+                />
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-11-18T16:20:07+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href=""
+                />
+  </url>
+  
+  <url>
     <loc>https://rebekkaa.github.io/publication/knauss-2018-t-reqs/</loc>
     <lastmod>2020-11-18T16:20:07+01:00</lastmod>
     <xhtml:link
@@ -627,8 +717,9 @@
                 hreflang="x-default"
                 href="https://rebekkaa.github.io/publication/wohlrab-2016/"
                 />
-  </url>  
-  <url>
+  </url>
+  
+    <url>
     <loc>https://rebekkaa.github.io/publication/maro-2016/</loc>
     <lastmod>2020-11-18T16:20:05+01:00</lastmod>
     <xhtml:link
@@ -677,5 +768,5 @@
                 href=""
                 />
   </url>
-    
+   
 </urlset>
