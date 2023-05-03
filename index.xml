@@ -5,7 +5,7 @@
     <link>https://rebekkaa.github.io/</link>
       <atom:link href="https://rebekkaa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rebekka Wohlrab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2023</copyright><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2023</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rebekkaa.github.io/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
       <title>Rebekka Wohlrab</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>Explaining Quality Attribute Tradeoffs in Automated Planning for Self-Adaptive Systems</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2022-jss/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2022-jss/</guid>
+      <title>AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems</title>
+      <link>https://rebekkaa.github.io/publication/vierhauser-2023-jss/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/vierhauser-2023-jss/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems</title>
-      <link>https://rebekkaa.github.io/publication/vierhauser-2022-jss/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/vierhauser-2022-jss/</guid>
+      <title>Explaining Quality Attribute Tradeoffs in Automated Planning for Self-Adaptive Systems</title>
+      <link>https://rebekkaa.github.io/publication/wohlrab-2023-jss/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/wohlrab-2023-jss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Software Engineering Artifacts in DevOps Through the Lens of Boundary Objects</title>
+      <link>https://rebekkaa.github.io/publication/matthies-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/matthies-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ExTrA: Explaining architectural design tradeoff spaces via dimensionality reduction</title>
+      <link>https://rebekkaa.github.io/publication/camara-2023-jss/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/camara-2023-jss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation</title>
+      <link>https://rebekkaa.github.io/publication/weyns-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/weyns-2022/</guid>
       <description></description>
     </item>
     
@@ -141,130 +165,6 @@
     </item>
     
     <item>
-      <title>Slides</title>
-      <link>https://rebekkaa.github.io/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Code block:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  Three
-&lt;/span&gt;
-&lt;hr&gt;
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /speaker_note %}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/media/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Boundary objects and their use in agile systems engineering</title>
       <link>https://rebekkaa.github.io/publication/wohlrab-2019-jsme/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -326,6 +226,8 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;strong&gt;[April 2023]&lt;/strong&gt; I am going to receive the IT Faculty Pedagogical Prize 2023. So grateful for the recognition!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[March 2023]&lt;/strong&gt; My grant application for a WASP academic PhD project was accepted. I will be hiring a PhD student soon. The topic is &amp;ldquo;Conflict Resolution for Self-Adaptive Systems&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[March 2023]&lt;/strong&gt; I have been nominated for the IT Faculty Pedagogical Prize 2023. Wow! I&amp;rsquo;m super glad and honored by the nomination.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[March 2023]&lt;/strong&gt; I&amp;rsquo;m hiring a PhD student in Software Engineering for Human-Centric Autonomous Systems. You can find more information and apply until April 14 &lt;a href=&#34;https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&amp;amp;rmjob=11540&amp;amp;rmlang=UK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. Please spread the word!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[March 2023]&lt;/strong&gt; Our &lt;a href=&#34;https://conf.researchr.org/home/ease-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EASE&#39;23&lt;/a&gt; paper &amp;ldquo;Investigating Software Engineering Artifacts in DevOps Through the Lens of Boundary Objects&amp;rdquo; was accepted. It is joined work with Christoph Matthies and Robert Heinrich.&lt;/p&gt;
@@ -333,9 +235,9 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[November 2022]&lt;/strong&gt; Javier Cámara, Bradley Schmerl, David Garlan, and I got a paper accepted to the Journal of Systems and Software (JSS). It is called &amp;ldquo;ExTrA: Explaining Architectural Design Tradeoff Spaces via Dimensionality Reduction&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[October 2022]&lt;/strong&gt; I will give a talk at the &lt;a href=&#34;https://www.cse.chalmers.se/research/group/security/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chalmers Security &amp;amp; Privacy Seminar&lt;/a&gt; later this month (Oct 20). Come and join if you&amp;rsquo;re in Gothenburg!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[October 2022]&lt;/strong&gt; A new article about my research and career has been published on the &lt;a href=&#34;https://wasp-sweden.org/helping-self-adaptive-systems-and-humans-understand-each-other/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WASP homepage&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[October 2022]&lt;/strong&gt; Our paper &lt;a href=&#34;https://rebekkaa.github.io/publication/wohlrab-2022-jss&#34;&gt;Explaining Quality Attribute Tradeoffs in Automated Planning for Self-Adaptive Systems&lt;/a&gt; got accepted to the &lt;a href=&#34;https://www.sciencedirect.com/journal/journal-of-systems-and-software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Systems and Software (JSS)&lt;/a&gt;. You can find a preprint &lt;a href=&#34;https://rebekkaa.github.io/files/2022_explaining_tradeoffs.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[October 2022]&lt;/strong&gt; Our paper &lt;a href=&#34;https://rebekkaa.github.io/publication/wohlrab-2023-jss&#34;&gt;Explaining Quality Attribute Tradeoffs in Automated Planning for Self-Adaptive Systems&lt;/a&gt; got accepted to the &lt;a href=&#34;https://www.sciencedirect.com/journal/journal-of-systems-and-software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Systems and Software (JSS)&lt;/a&gt;. You can find a preprint &lt;a href=&#34;https://rebekkaa.github.io/files/2022_explaining_tradeoffs.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; I will be serving on the program committee for &lt;a href=&#34;https://conf.researchr.org/home/seams-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEAMS 2023&lt;/a&gt;. We&amp;rsquo;re looking forward to your submissions!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; Very happy that our paper &lt;a href=&#34;https://rebekkaa.github.io/publication/vierhauser-2022-jss/&#34;&gt;AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems&lt;/a&gt; got accepted to the Journal of Systems and Software (JSS). It is based on a collaboration with Michael Vierhauser, Marco Stadler, and Jane Cleland-Huang. A preprint can be found &lt;a href=&#34;https://rumors-cloud.se.jku.at/s/KxDmEswqEw3g6Jm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; Very happy that our paper &lt;a href=&#34;https://rebekkaa.github.io/publication/vierhauser-2023-jss/&#34;&gt;AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems&lt;/a&gt; got accepted to the Journal of Systems and Software (JSS). It is based on a collaboration with Michael Vierhauser, Marco Stadler, and Jane Cleland-Huang. A preprint can be found &lt;a href=&#34;https://rumors-cloud.se.jku.at/s/KxDmEswqEw3g6Jm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; Our paper &lt;a href=&#34;https://rebekkaa.github.io/publication/vierhauser-2022-cns/&#34;&gt;Towards Cost-Benefit-Aware Adaptive Monitoring for Cyber-Physical Systems&lt;/a&gt; got accepted to the Conference on Communications and Network Security (CNS): Cyber Resilience Workshop (with Michael Vierhauser and Stefan Rass).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[July 2022]&lt;/strong&gt; I will be serving on the program committees for &lt;a href=&#34;https://conf.researchr.org/home/RE-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RE&#39;23&lt;/a&gt; and &lt;a href=&#34;https://icsa-conferences.org/2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA 2023&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[June 2022]&lt;/strong&gt; After two great years at CMU, I will be starting as an Assistant Professor at Chalmers University of Technology in August 2022. Very happy about this new position and I&amp;rsquo;m looking forward to returning to Sweden!&lt;/p&gt;
