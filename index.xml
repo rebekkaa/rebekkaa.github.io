@@ -5,12 +5,20 @@
     <link>https://rebekkaa.github.io/</link>
       <atom:link href="https://rebekkaa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rebekka Wohlrab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2023</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2023</copyright><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rebekkaa.github.io/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
       <title>Rebekka Wohlrab</title>
       <link>https://rebekkaa.github.io/</link>
     </image>
+    
+    <item>
+      <title>Supporting the Exploration of Quality Attribute Tradeoffs in Large Design Spaces</title>
+      <link>https://rebekkaa.github.io/publication/diazpace-2023-ecsa/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/diazpace-2023-ecsa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems</title>
@@ -226,6 +234,8 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[September 2023]&lt;/strong&gt; Awesome news: Andres Diaz-Pace, David Garlan, and I won the Best Paper Award for our &lt;a href=&#34;https://rebekkaa.github.io/publication/diazpace-2023-ecsa&#34;&gt;ECSA 2023 paper&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[September 2023]&lt;/strong&gt; I&amp;rsquo;ve accepted to serve on the program committee for the Artifact Track of &lt;a href=&#34;https://conf.researchr.org/home/seams-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEAMS 2024&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[August 2023]&lt;/strong&gt; I will be on the program committee for &lt;a href=&#34;https://icsa-conferences.org/2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA 2024&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[June 2023]&lt;/strong&gt; Our &lt;a href=&#34;https://conf.researchr.org/home/ecsa-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECSA&#39;23&lt;/a&gt; paper was accepted. It is called &amp;ldquo;Supporting the Exploration of Quality Attribute Tradeoffs in Large Design Spaces&amp;rdquo; (with Andres Diaz Pace and David Garlan).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[April 2023]&lt;/strong&gt; I am going to receive the IT Faculty &lt;a href=&#34;https://www.medarbetarportalen.gu.se/internt-itufak/teaching-learning/pedagogical-prize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pedagogical Prize 2023&lt;/a&gt;. So grateful for the recognition!&lt;/p&gt;
