@@ -5,7 +5,7 @@
     <link>https://rebekkaa.github.io/</link>
       <atom:link href="https://rebekkaa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rebekka Wohlrab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2023</copyright><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2023</copyright><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rebekkaa.github.io/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
       <title>Rebekka Wohlrab</title>
@@ -49,6 +49,30 @@
       <link>https://rebekkaa.github.io/publication/camara-2023-jss/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://rebekkaa.github.io/publication/camara-2023-jss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rebekkaa.github.io/research/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rebekkaa.github.io/service/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rebekkaa.github.io/teaching/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/teaching/</guid>
       <description></description>
     </item>
     
@@ -234,7 +258,10 @@
 
 
 
-&lt;p&gt;&lt;strong&gt;[September 2023]&lt;/strong&gt; Awesome news: Andres Diaz-Pace, David Garlan, and I won the Best Paper Award for our &lt;a href=&#34;https://rebekkaa.github.io/publication/diazpace-2023-ecsa&#34;&gt;ECSA 2023 paper&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[October 2023]&lt;/strong&gt; The proposal for our &lt;a href=&#34;https://wasp-sweden.org/nest-environments/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WASP NEST&lt;/a&gt; was accepted. It is called ShiftLeft: Securing the Software Supply Chain by Code-centric Analysis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[October 2023]&lt;/strong&gt; I am going to be a workshop co-chair at &lt;a href=&#34;https://2024.acsos.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACSOS&#39;24&lt;/a&gt;. Looking forward to great workshop proposals!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[October 2023]&lt;/strong&gt; I served as the external reviewer/&lt;a href=&#34;https://studentportal.bth.se/en/doctoral-studies/doctoral-student-portal/thesis-and-defence/public-defence/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;opponent&lt;/a&gt; at Raquel Ouriques&amp;rsquo;s PhD defense at Blekinge Tekniska Högskola.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[September 2023]&lt;/strong&gt; Andres Diaz-Pace, David Garlan, and I won the Best Paper Award for our &lt;a href=&#34;https://rebekkaa.github.io/publication/diazpace-2023-ecsa&#34;&gt;ECSA 2023 paper&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[September 2023]&lt;/strong&gt; I&amp;rsquo;ve accepted to serve on the program committee for the Artifact Track of &lt;a href=&#34;https://conf.researchr.org/home/seams-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEAMS 2024&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[August 2023]&lt;/strong&gt; I will be on the program committee for &lt;a href=&#34;https://icsa-conferences.org/2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA 2024&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[June 2023]&lt;/strong&gt; Our &lt;a href=&#34;https://conf.researchr.org/home/ecsa-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECSA&#39;23&lt;/a&gt; paper was accepted. It is called &amp;ldquo;Supporting the Exploration of Quality Attribute Tradeoffs in Large Design Spaces&amp;rdquo; (with Andres Diaz Pace and David Garlan).&lt;/p&gt;
@@ -242,7 +269,7 @@
 &lt;p&gt;&lt;strong&gt;[March 2023]&lt;/strong&gt; My grant application for a WASP academic PhD project was accepted. It is about requirements conflict resolution for self-adaptive systems. I will be hiring a PhD student soon.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[March 2023]&lt;/strong&gt; I&amp;rsquo;m hiring a PhD student in Software Engineering for Human-Centric Autonomous Systems. You can find more information and apply until April 14 &lt;a href=&#34;https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&amp;amp;rmjob=11540&amp;amp;rmlang=UK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. Please spread the word!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[March 2023]&lt;/strong&gt; Our &lt;a href=&#34;https://conf.researchr.org/home/ease-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EASE&#39;23&lt;/a&gt; paper &amp;ldquo;Investigating Software Engineering Artifacts in DevOps Through the Lens of Boundary Objects&amp;rdquo; was accepted. It is joined work with Christoph Matthies and Robert Heinrich.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[January 2023]&lt;/strong&gt; The course that I redesigned and taught last semester got a really good course evaluation. You can find some of the students&amp;rsquo; comments &lt;a href=&#34;https://rebekkaa.github.io/files/comments_course_eval_dit348.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. It was a BSc-level course on software processes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[January 2023]&lt;/strong&gt; The course that I redesigned and taught last semester got a really good course evaluation. It was a BSc-level course on software processes.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[November 2022]&lt;/strong&gt; Javier Cámara, Bradley Schmerl, David Garlan, and I got a paper accepted to the Journal of Systems and Software (JSS). It is called &amp;ldquo;ExTrA: Explaining Architectural Design Tradeoff Spaces via Dimensionality Reduction&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[October 2022]&lt;/strong&gt; I will give a talk at the &lt;a href=&#34;https://www.cse.chalmers.se/research/group/security/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chalmers Security &amp;amp; Privacy Seminar&lt;/a&gt; later this month (Oct 20). Come and join if you&amp;rsquo;re in Gothenburg!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[October 2022]&lt;/strong&gt; A new article about my research and career has been published on the &lt;a href=&#34;https://wasp-sweden.org/helping-self-adaptive-systems-and-humans-understand-each-other/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WASP homepage&lt;/a&gt;.&lt;/p&gt;
@@ -286,19 +313,6 @@
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://rebekkaa.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Traceability Maintenance: Factors and Guidelines</title>
       <link>https://rebekkaa.github.io/publication/maro-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -312,46 +326,6 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://rebekkaa.github.io/publication/wohlrab-2014/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://rebekkaa.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/admin/config.yml</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thesis Topics</title>
-      <link>https://rebekkaa.github.io/theses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/theses/</guid>
-      <description>&lt;p&gt;You can find a list of possible thesis topics for MSc and BSc students below.
-Feel free to contact me if you have questions or want to discuss additional topics: &lt;a href=&#34;mailto:wohlrab@chalmers.se&#34;&gt;wohlrab@chalmers.se&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Resolving conflicts in robot mission planning
-&lt;ul&gt;
-&lt;li&gt;Description: In real-world robotic systems, it often happens that requirements are in conflict with each other. For example, a cleaning robot shall clean a room. At the same time, there might be a requirement mandating that a cleaning robot&amp;rsquo;s battery level should never be below 2%. In some situations, it could be possible for the robot to finish the cleaning task if that battery level requirement is violated. The battery level would fall below 2%, but given that the cleaning task can be accomplished in that case, violating that requirement might be worth it. When is it worth ignoring a requirement to fulfill another one? How should systems know which requirements to prioritize? What strategies can we create so that conflicts can be resolved? The goal of the thesis is to develop a system that selects appropriate strategies to resolve conflicts automatically.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Replanning missions for robotic systems
-&lt;ul&gt;
-&lt;li&gt;Description: Robots need to plan their actions. Currently, planning systems tend to assume that you can create a plan once and execute it. In practice, that might not be feasible. A lot of things can happen (e.g., robots can break) and that might require replanning a mission at runtime. Sometimes, replanning can take a long time. Sometimes, humans might need to be involved to fix a broken robot. This thesis focuses on creating mechanisms to replan robotic missions, so that an optimal path can be found even in uncertain contexts.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Human interaction with robotic systems
-&lt;ul&gt;
-&lt;li&gt;Description: See the description above. Sometimes, robots might break and humans need to fix mechanical issues. How should that interaction be initiated? When is it a good time to ask a human for help? What is needed to help humans prioritize and schedule their repair tasks?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Architectural sketches in practice
-&lt;ul&gt;
-&lt;li&gt;Description: It is very common that architects and developers create whiteboard sketches to draft their ideas for the design of a software system. Those sketches can have different properties and purposes. The idea for this thesis is to investigate how these diagrams are created and used in practice. What do &amp;ldquo;good&amp;rdquo; architectural sketches look like? How often and in which phases in the development process do stakeholders use such sketches? Ideally, you have a contact with a company to pursue this topic.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>
