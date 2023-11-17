@@ -716,50 +716,6 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/tag/agile-systems-engineering/</loc>
-    <lastmod>2020-11-18T16:20:43+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://rebekkaa.github.io/tag/agile-systems-engineering/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rebekkaa.github.io/tag/boundary-objects/</loc>
-    <lastmod>2020-11-18T16:20:43+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://rebekkaa.github.io/tag/boundary-objects/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rebekkaa.github.io/tag/design-science/</loc>
-    <lastmod>2020-11-18T16:20:43+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://rebekkaa.github.io/tag/design-science/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rebekkaa.github.io/tag/documentation/</loc>
-    <lastmod>2020-11-18T16:20:43+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://rebekkaa.github.io/tag/documentation/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rebekkaa.github.io/publication/wohlrab-2019-jsme/</loc>
     <lastmod>2020-11-18T16:20:43+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -789,17 +745,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href=""
-                />
-  </url>
-  
-  <url>
-    <loc>https://rebekkaa.github.io/tags/</loc>
-    <lastmod>2020-11-18T16:20:43+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://rebekkaa.github.io/tags/"
                 />
   </url>
   
@@ -1019,16 +964,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href=""
-                />
-  </url>
-  
-  <url>
-    <loc>https://rebekkaa.github.io/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://rebekkaa.github.io/categories/"
                 />
   </url>
   

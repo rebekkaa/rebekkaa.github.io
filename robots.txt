@@ -1,3 +1,5 @@
 User-agent: *
+Disallow: /authors/*
+Disallow: /author/*
 
 Sitemap: https://rebekkaa.github.io/sitemap.xml
