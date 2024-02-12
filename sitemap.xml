@@ -2,12 +2,23 @@
   
   <url>
     <loc></loc>
-    <lastmod>2024-01-18T16:19:56+01:00</lastmod>
+    <lastmod>2024-01-18T16:19:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href=""
+                />
+  </url>
+  
+  <url>
+    <loc>https://rebekkaa.github.io/publication-type/1/</loc>
+    <lastmod>2024-01-18T16:19:59+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://rebekkaa.github.io/publication-type/1/"
                 />
   </url>
   
@@ -56,6 +67,17 @@
   </url>
   
   <url>
+    <loc></loc>
+    <lastmod>2024-01-18T16:19:59+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href=""
+                />
+  </url>
+  
+  <url>
     <loc>https://rebekkaa.github.io/publication/camara-2024-ieee/</loc>
     <lastmod>2024-01-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -79,6 +101,17 @@
   
   <url>
     <loc></loc>
+    <lastmod>2024-01-18T16:19:59+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href=""
+                />
+  </url>
+  
+  <url>
+    <loc></loc>
     <lastmod>2024-01-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -90,7 +123,7 @@
   
   <url>
     <loc>https://rebekkaa.github.io/publication_types/</loc>
-    <lastmod>2024-01-18T16:19:56+01:00</lastmod>
+    <lastmod>2024-01-18T16:19:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -101,7 +134,7 @@
   
   <url>
     <loc>https://rebekkaa.github.io/publication/</loc>
-    <lastmod>2024-01-18T16:19:56+01:00</lastmod>
+    <lastmod>2024-01-18T16:19:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -112,7 +145,7 @@
   
   <url>
     <loc></loc>
-    <lastmod>2024-01-18T16:19:56+01:00</lastmod>
+    <lastmod>2024-01-18T16:19:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -129,6 +162,17 @@
                 rel="alternate"
                 hreflang="x-default"
                 href=""
+                />
+  </url>
+  
+  <url>
+    <loc>https://rebekkaa.github.io/publication/wohlrab-2024-refsq/</loc>
+    <lastmod>2024-01-18T16:19:59+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://rebekkaa.github.io/publication/wohlrab-2024-refsq/"
                 />
   </url>
   
@@ -140,17 +184,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://rebekkaa.github.io/publication/santilli-2024-ieee/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rebekkaa.github.io/publication-type/1/</loc>
-    <lastmod>2023-09-21T16:19:56+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://rebekkaa.github.io/publication-type/1/"
                 />
   </url>
   
@@ -217,17 +250,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://rebekkaa.github.io/publication/matthies-2023/"
-                />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2023-02-18T16:19:56+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href=""
                 />
   </url>
   
