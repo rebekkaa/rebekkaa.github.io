@@ -5,12 +5,20 @@
     <link>https://rebekkaa.github.io/publication-type/1/</link>
       <atom:link href="https://rebekkaa.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2024</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2024</copyright><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rebekkaa.github.io/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://rebekkaa.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>We&#39;re Drifting Apart: Architectural Drift from the Developers&#39; Perspective</title>
+      <link>https://rebekkaa.github.io/publication/anthony-2024-icsa/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/anthony-2024-icsa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What Impact do my Preferences Have? A Framework for Explanation-Based Elicitation of Quality Objectives for Robotic Mission Planning</title>
