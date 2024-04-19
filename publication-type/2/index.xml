@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Rebekka Wohlrab</title>
-    <link>https://rebekkaa.github.io/publication-type/2/</link>
-      <atom:link href="https://rebekkaa.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/2/</link>
+      <atom:link href="http://localhost:1313/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2024</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rebekkaa.github.io/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://rebekkaa.github.io/publication-type/2/</link>
+      <link>http://localhost:1313/publication-type/2/</link>
     </image>
     
     <item>
       <title>Focusing on What Matters: Explaining Quality Tradeoffs in Software-Intensive Systems via Dimensionality Reduction</title>
-      <link>https://rebekkaa.github.io/publication/camara-2024-ieee/</link>
+      <link>http://localhost:1313/publication/camara-2024-ieee/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/camara-2024-ieee/</guid>
+      <guid>http://localhost:1313/publication/camara-2024-ieee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What is Continuous Compliance?</title>
-      <link>https://rebekkaa.github.io/publication/santilli-2024-ieee/</link>
+      <link>http://localhost:1313/publication/santilli-2024-ieee/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/santilli-2024-ieee/</guid>
+      <guid>http://localhost:1313/publication/santilli-2024-ieee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems</title>
-      <link>https://rebekkaa.github.io/publication/vierhauser-2023-jss/</link>
+      <link>http://localhost:1313/publication/vierhauser-2023-jss/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/vierhauser-2023-jss/</guid>
+      <guid>http://localhost:1313/publication/vierhauser-2023-jss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining Quality Attribute Tradeoffs in Automated Planning for Self-Adaptive Systems</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2023-jss/</link>
+      <link>http://localhost:1313/publication/wohlrab-2023-jss/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2023-jss/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2023-jss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ExTrA: Explaining architectural design tradeoff spaces via dimensionality reduction</title>
-      <link>https://rebekkaa.github.io/publication/camara-2023-jss/</link>
+      <link>http://localhost:1313/publication/camara-2023-jss/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/camara-2023-jss/</guid>
+      <guid>http://localhost:1313/publication/camara-2023-jss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation</title>
-      <link>https://rebekkaa.github.io/publication/weyns-2022/</link>
+      <link>http://localhost:1313/publication/weyns-2022/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/weyns-2022/</guid>
+      <guid>http://localhost:1313/publication/weyns-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Negotiation Support System for Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2021-rej/</link>
+      <link>http://localhost:1313/publication/wohlrab-2021-rej/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2021-rej/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2021-rej/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative traceability management: a multiple case study from the perspectives of organization, process, and culture</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2018-reen/</link>
+      <link>http://localhost:1313/publication/wohlrab-2018-reen/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2018-reen/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2018-reen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Managing Traceability Information Models: Not Such a Simple Task After All?</title>
-      <link>https://rebekkaa.github.io/publication/maro-2020/</link>
+      <link>http://localhost:1313/publication/maro-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/maro-2020/</guid>
+      <guid>http://localhost:1313/publication/maro-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why and how to balance alignment and diversity of requirements engineering practices in automotive</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2020-jss/</link>
+      <link>http://localhost:1313/publication/wohlrab-2020-jss/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2020-jss/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2020-jss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why and How Your Traceability Should Evolve: Insights from an Automotive Supplier</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2020-ieee-software/</link>
+      <link>http://localhost:1313/publication/wohlrab-2020-ieee-software/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2020-ieee-software/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2020-ieee-software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boundary objects and their use in agile systems engineering</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2019-jsme/</link>
+      <link>http://localhost:1313/publication/wohlrab-2019-jsme/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2019-jsme/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2019-jsme/</guid>
       <description></description>
     </item>
     
