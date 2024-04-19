@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /authors/*
 Disallow: /author/*
 
-Sitemap: http://localhost:1313/sitemap.xml
+Sitemap: https://rebekkaa.github.io/sitemap.xml
