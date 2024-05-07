@@ -2,181 +2,181 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Rebekka Wohlrab</title>
-    <link>https://rebekkaa.github.io/publication-type/1/</link>
-      <atom:link href="https://rebekkaa.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/1/</link>
+      <atom:link href="http://localhost:1313/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2024</copyright><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rebekkaa.github.io/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://rebekkaa.github.io/publication-type/1/</link>
+      <link>http://localhost:1313/publication-type/1/</link>
     </image>
     
     <item>
       <title>Supporting Early Architectural Decision-Making Through Tradeoff Analysis: A Study with Volvo Cars</title>
-      <link>https://rebekkaa.github.io/publication/oqvist-2024-fse/</link>
+      <link>http://localhost:1313/publication/oqvist-2024-fse/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/oqvist-2024-fse/</guid>
+      <guid>http://localhost:1313/publication/oqvist-2024-fse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>We&#39;re Drifting Apart: Architectural Drift from the Developers&#39; Perspective</title>
-      <link>https://rebekkaa.github.io/publication/anthony-2024-icsa/</link>
+      <link>http://localhost:1313/publication/anthony-2024-icsa/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/anthony-2024-icsa/</guid>
+      <guid>http://localhost:1313/publication/anthony-2024-icsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Impact do my Preferences Have? A Framework for Explanation-Based Elicitation of Quality Objectives for Robotic Mission Planning</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2024-refsq/</link>
+      <link>http://localhost:1313/publication/wohlrab-2024-refsq/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2024-refsq/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2024-refsq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supporting the Exploration of Quality Attribute Tradeoffs in Large Design Spaces</title>
-      <link>https://rebekkaa.github.io/publication/diazpace-2023-ecsa/</link>
+      <link>http://localhost:1313/publication/diazpace-2023-ecsa/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/diazpace-2023-ecsa/</guid>
+      <guid>http://localhost:1313/publication/diazpace-2023-ecsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating Software Engineering Artifacts in DevOps Through the Lens of Boundary Objects</title>
-      <link>https://rebekkaa.github.io/publication/matthies-2023/</link>
+      <link>http://localhost:1313/publication/matthies-2023/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/matthies-2023/</guid>
+      <guid>http://localhost:1313/publication/matthies-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Run-Time Adaptation of Quality Attributes for Automated Planning</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2022-seams/</link>
+      <link>http://localhost:1313/publication/wohlrab-2022-seams/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2022-seams/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2022-seams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aligning Architecture with Business Goals in the Automotive Domain</title>
-      <link>https://rebekkaa.github.io/publication/bucaioni-2021/</link>
+      <link>http://localhost:1313/publication/bucaioni-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/bucaioni-2021/</guid>
+      <guid>http://localhost:1313/publication/bucaioni-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2021-refsq/</link>
+      <link>http://localhost:1313/publication/wohlrab-2021-refsq/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2021-refsq/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2021-refsq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Charting Coordination Needs in Large-Scale Agile Organisations with Boundary Objects and Methodological Islands</title>
-      <link>https://rebekkaa.github.io/publication/kasauli-2020/</link>
+      <link>http://localhost:1313/publication/kasauli-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/kasauli-2020/</guid>
+      <guid>http://localhost:1313/publication/kasauli-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and Analysis of Boundary Objects and Methodological Islands in Large-Scale Systems Development</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2020-modeling/</link>
+      <link>http://localhost:1313/publication/wohlrab-2020-modeling/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2020-modeling/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2020-modeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving the Consistency and Usefulness of Architecture Descriptions: Guidelines for Architects</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2019-icsa-survey/</link>
+      <link>http://localhost:1313/publication/wohlrab-2019-icsa-survey/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2019-icsa-survey/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2019-icsa-survey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Interfaces to Support Agile Architecting in Automotive: An Exploratory Case Study</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2019-icsa-interface/</link>
+      <link>http://localhost:1313/publication/wohlrab-2019-icsa-interface/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2019-icsa-interface/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2019-icsa-interface/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Challenges of Scaled Agile for Safety-Critical Systems</title>
-      <link>https://rebekkaa.github.io/publication/steghofer-2019/</link>
+      <link>http://localhost:1313/publication/steghofer-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/steghofer-2019/</guid>
+      <guid>http://localhost:1313/publication/steghofer-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T-Reqs: Tool Support for Managing Requirements in Large-Scale Agile System Development</title>
-      <link>https://rebekkaa.github.io/publication/knauss-2018-t-reqs/</link>
+      <link>http://localhost:1313/publication/knauss-2018-t-reqs/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/knauss-2018-t-reqs/</guid>
+      <guid>http://localhost:1313/publication/knauss-2018-t-reqs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Architecture for Decentralized, Collaborative, and Autonomous Robots</title>
-      <link>https://rebekkaa.github.io/publication/garcia-2018/</link>
+      <link>http://localhost:1313/publication/garcia-2018/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/garcia-2018/</guid>
+      <guid>http://localhost:1313/publication/garcia-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boundary Objects in Agile Practices: Continuous Management of Systems Engineering Artifacts in the Automotive Domain</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2018-icssp/</link>
+      <link>http://localhost:1313/publication/wohlrab-2018-icssp/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2018-icssp/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2018-icssp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Problem of Consolidating RE Practices at Scale: An Ethnographic Study</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2018-refsq/</link>
+      <link>http://localhost:1313/publication/wohlrab-2018-refsq/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2018-refsq/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2018-refsq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Management of Design- and Run-Time Artifacts for Self-Adaptive Systems</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2017/</link>
+      <link>http://localhost:1313/publication/wohlrab-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2017/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative Traceability Management: Challenges and Opportunities</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2016/</link>
+      <link>http://localhost:1313/publication/wohlrab-2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2016/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Traceability Maintenance: Factors and Guidelines</title>
-      <link>https://rebekkaa.github.io/publication/maro-2016/</link>
+      <link>http://localhost:1313/publication/maro-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/maro-2016/</guid>
+      <guid>http://localhost:1313/publication/maro-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience of pragmatically combining RE methods for performance requirements in industry</title>
-      <link>https://rebekkaa.github.io/publication/wohlrab-2014/</link>
+      <link>http://localhost:1313/publication/wohlrab-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://rebekkaa.github.io/publication/wohlrab-2014/</guid>
+      <guid>http://localhost:1313/publication/wohlrab-2014/</guid>
       <description></description>
     </item>
     
