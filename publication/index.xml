@@ -5,7 +5,7 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2024</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2024</copyright><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Human Factors in Model-Driven Engineering: Future Research Goals and Initiatives for MDE</title>
+      <link>http://localhost:1313/publication/liebel-2024-sosym/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liebel-2024-sosym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Increasing the Confidence in Security Assurance Cases using Game Theory</title>
       <link>http://localhost:1313/publication/welzel-2024-ares/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/welzel-2024-ares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not All Conflicts Are the Same: An Empirical Study of Requirement Conflicts in Practice</title>
+      <link>http://localhost:1313/publication/welzel-2024-seaa/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/welzel-2024-seaa/</guid>
       <description></description>
     </item>
     
