@@ -5,12 +5,20 @@
     <link>https://rebekkaa.github.io/publication-type/3/</link>
       <atom:link href="https://rebekkaa.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2024</copyright><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© Rebekka Wohlrab 2024</copyright><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rebekkaa.github.io/media/icon_hu061480f1196a7822a8bcc573a71b5791_1976_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://rebekkaa.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Meta-Adaptation Goals: Leveraging Feedback Loop Requirements for Effective Self-Adaptation</title>
+      <link>https://rebekkaa.github.io/publication/groner-2024-aias/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/publication/groner-2024-aias/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Challenges in Creating Effective Automated Design Environments: An experience report from the domain of generative manufacturing</title>
