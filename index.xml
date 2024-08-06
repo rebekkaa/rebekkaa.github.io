@@ -346,6 +346,7 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[August 2024]&lt;/strong&gt; I will be serving on the program committee for &lt;a href=&#34;https://conf.researchr.org/home/seams-2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEAMS 2025&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[July 2024]&lt;/strong&gt; Papers accepted at &lt;a href=&#34;https://rebekkaa.github.io/publication/liebel-2024-sosym/&#34;&gt;SoSyM&lt;/a&gt; and &lt;a href=&#34;https://rebekkaa.github.io/publication/welzel-2024-seaa/&#34;&gt;SEAA&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[June 2024]&lt;/strong&gt; Paper accepted at ECSA&#39;24. More information about the paper can be found &lt;a href=&#34;https://rebekkaa.github.io/publication/ahmeti-2024-ecsa/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[May 2024]&lt;/strong&gt; &lt;a href=&#34;https://rebekkaa.github.io/publication/holtmann-2024-sosym/&#34;&gt;Paper&lt;/a&gt; accepted to the &lt;a href=&#34;https://link.springer.com/journal/10270/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoSym journal&lt;/a&gt;.&lt;/p&gt;
@@ -428,6 +429,63 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://rebekkaa.github.io/publication/wohlrab-2014/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rebekkaa.github.io/research_old/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rebekkaa.github.io/research_old/</guid>
+      <description>&lt;h2 id=&#34;--137-138-&#34;&gt;@ -1,37 +1,38 @@&lt;/h2&gt;
+&lt;h1 id=&#34;leave-the-homepage-title-empty-to-use-the-site-title&#34;&gt;Leave the homepage title empty to use the site title&lt;/h1&gt;
+&lt;p&gt;title:
+date: 2022-10-24
+type: landing&lt;/p&gt;
+&lt;p&gt;sections:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;block: markdown
+design:
+columns: &amp;lsquo;2&amp;rsquo;
+content:
+title: Research
+text: &amp;ldquo;I am interested in human-on-the-loop autonomous systems. These software-intensive systems make a lot of decisions autonomously.
+To enable successful human-machine collaboration, humans need to &lt;strong&gt;understand the decisions that are made&lt;/strong&gt; by these systems.
+Humans also need to be able to &lt;strong&gt;express their own needs&lt;/strong&gt; in a way that machines understand.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My research focuses on the following questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;How can we (continuously) elicit preferences and goals that people deem important in autonomous systems? [&lt;a href=&#34;https://rebekkaa.github.io/publication/wohlrab-2021-refsq/&#34;&gt;REFSQ 2021&lt;/a&gt;&lt;a href=&#34;https://rebekkaa.github.io/publication/wohlrab-2021-rej/&#34;&gt;, REJ 2022&lt;/a&gt;&lt;a href=&#34;https://rebekkaa.github.io/publication/wohlrab-2022-seams/&#34;&gt;, SEAMS 2022&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How can quality tradeoffs be explained to humans, so that it is easier to understand how systems behave? [&lt;a href=&#34;https://rebekkaa.github.io/publication/wohlrab-2023-jss/&#34;&gt;JSS 2023 (Wohlrab et al.)&lt;/a&gt;&lt;a href=&#34;https://rebekkaa.github.io/publication/diazpace-2023-ecsa/&#34;&gt;, ECSA 2023 (Diaz-Pace et al.)&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How can systems be monitored to ensure that safety and security constraints are fulfilled, but so that we can reduce energy consumption and required bandwidth? [&lt;a href=&#34;https://rebekkaa.github.io/publication/vierhauser-2022-cns/&#34;&gt;CNS&#39;22&lt;/a&gt;&lt;a href=&#34;https://rebekkaa.github.io/publication/vierhauser-2023-jss/&#34;&gt;, JSS 2023 (Vierhauser et al.)&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;grants-and-awards&#34;&gt;Grants and Awards&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2023: &lt;a href=&#34;https://wasp-sweden.org/opportunities/calls/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WASP Academic PhD Project on Conflict Resolution for Autonomous Systems&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2023: &lt;a href=&#34;https://wasp-sweden.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WASP NEST ShiftLeft: Securing the Software Supply Chain by Code-centric Analysis&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2023: &lt;a href=&#34;https://wasp-sweden.org/opportunities/calls/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WASP Assistant Professor Starting Package&lt;/a&gt;: Funding for my own position, as well as 2 PhD students and 2 postdocs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2023: Best Paper Award at &lt;a href=&#34;https://rebekkaa.github.io/files/DiazPace2023-ECSA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECSA&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2019: Best Paper Award at &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-35333-9_26&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROFES&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2019: Best Paper Award at &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8703919&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
