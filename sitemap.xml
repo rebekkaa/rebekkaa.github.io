@@ -12,57 +12,46 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication-type/3/</loc>
+    <loc>http://localhost:1313/publication-type/3/</loc>
     <lastmod>2024-08-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication-type/3/"
+                href="http://localhost:1313/publication-type/3/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/groner-2024-aias/</loc>
+    <loc>http://localhost:1313/publication/groner-2024-aias/</loc>
     <lastmod>2024-08-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/groner-2024-aias/"
+                href="http://localhost:1313/publication/groner-2024-aias/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2024-08-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication_types/"
+                href="http://localhost:1313/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2024-08-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2024-08-18T16:19:56+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href=""
+                href="http://localhost:1313/publication/"
                 />
   </url>
   
@@ -89,13 +78,24 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication-type/2/</loc>
+    <loc></loc>
+    <lastmod>2024-08-18T16:19:56+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href=""
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publication-type/2/</loc>
     <lastmod>2024-07-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication-type/2/"
+                href="http://localhost:1313/publication-type/2/"
                 />
   </url>
   
@@ -122,57 +122,13 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/liebel-2024-sosym/</loc>
+    <loc>http://localhost:1313/publication/liebel-2024-sosym/</loc>
     <lastmod>2024-07-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/liebel-2024-sosym/"
-                />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2024-07-18T16:19:56+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href=""
-                />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2024-07-18T16:19:56+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href=""
-                />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2024-07-18T16:19:56+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href=""
-                />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2024-07-18T16:19:56+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href=""
+                href="http://localhost:1313/publication/liebel-2024-sosym/"
                 />
   </url>
   
@@ -386,35 +342,57 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication-type/1/</loc>
+    <loc></loc>
+    <lastmod>2024-07-18T16:19:56+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href=""
+                />
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2024-07-18T16:19:56+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href=""
+                />
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2024-07-18T16:19:56+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href=""
+                />
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2024-07-18T16:19:56+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href=""
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publication-type/1/</loc>
     <lastmod>2024-05-01T16:19:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication-type/1/"
-                />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2024-05-01T16:19:59+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href=""
-                />
-  </url>
-  
-  <url>
-    <loc>https://rebekkaa.github.io/publication/welzel-2024-ares/</loc>
-    <lastmod>2024-05-01T16:19:59+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/welzel-2024-ares/"
+                href="http://localhost:1313/publication-type/1/"
                 />
   </url>
   
@@ -430,13 +408,35 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/welzel-2024-seaa/</loc>
+    <loc>http://localhost:1313/publication/welzel-2024-ares/</loc>
     <lastmod>2024-05-01T16:19:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/welzel-2024-seaa/"
+                href="http://localhost:1313/publication/welzel-2024-ares/"
+                />
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2024-05-01T16:19:59+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href=""
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publication/welzel-2024-seaa/</loc>
+    <lastmod>2024-05-01T16:19:59+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="http://localhost:1313/publication/welzel-2024-seaa/"
                 />
   </url>
   
@@ -474,13 +474,13 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/oqvist-2024-fse/</loc>
+    <loc>http://localhost:1313/publication/oqvist-2024-fse/</loc>
     <lastmod>2024-04-18T16:19:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/oqvist-2024-fse/"
+                href="http://localhost:1313/publication/oqvist-2024-fse/"
                 />
   </url>
   
@@ -518,46 +518,13 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/garlan-2024-designing/</loc>
+    <loc>http://localhost:1313/publication/garlan-2024-designing/</loc>
     <lastmod>2024-02-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/garlan-2024-designing/"
-                />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2024-02-18T16:19:56+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href=""
-                />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2024-02-18T16:19:59+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href=""
-                />
-  </url>
-  
-  <url>
-    <loc>https://rebekkaa.github.io/publication/ahmeti-2024-ecsa/</loc>
-    <lastmod>2024-02-18T16:19:59+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/ahmeti-2024-ecsa/"
+                href="http://localhost:1313/publication/garlan-2024-designing/"
                 />
   </url>
   
@@ -584,6 +551,28 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/publication/ahmeti-2024-ecsa/</loc>
+    <lastmod>2024-02-18T16:19:59+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="http://localhost:1313/publication/ahmeti-2024-ecsa/"
+                />
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2024-02-18T16:19:56+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href=""
+                />
+  </url>
+  
+  <url>
     <loc></loc>
     <lastmod>2024-02-18T16:19:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -595,13 +584,24 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/anthony-2024-icsa/</loc>
+    <loc></loc>
     <lastmod>2024-02-18T16:19:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/anthony-2024-icsa/"
+                href=""
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publication/anthony-2024-icsa/</loc>
+    <lastmod>2024-02-18T16:19:59+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="http://localhost:1313/publication/anthony-2024-icsa/"
                 />
   </url>
   
@@ -617,13 +617,13 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/santilli-2024-ieee/</loc>
+    <loc>http://localhost:1313/publication/santilli-2024-ieee/</loc>
     <lastmod>2024-01-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/santilli-2024-ieee/"
+                href="http://localhost:1313/publication/santilli-2024-ieee/"
                 />
   </url>
   
@@ -650,13 +650,13 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/camara-2024-ieee/</loc>
+    <loc>http://localhost:1313/publication/camara-2024-ieee/</loc>
     <lastmod>2024-01-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/camara-2024-ieee/"
+                href="http://localhost:1313/publication/camara-2024-ieee/"
                 />
   </url>
   
@@ -727,13 +727,13 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/holtmann-2024-sosym/</loc>
+    <loc>http://localhost:1313/publication/holtmann-2024-sosym/</loc>
     <lastmod>2024-01-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/holtmann-2024-sosym/"
+                href="http://localhost:1313/publication/holtmann-2024-sosym/"
                 />
   </url>
   
@@ -749,13 +749,13 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2024-refsq/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2024-refsq/</loc>
     <lastmod>2024-01-18T16:19:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2024-refsq/"
+                href="http://localhost:1313/publication/wohlrab-2024-refsq/"
                 />
   </url>
   
@@ -771,24 +771,24 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/diazpace-2023-ecsa/</loc>
+    <loc>http://localhost:1313/publication/diazpace-2023-ecsa/</loc>
     <lastmod>2023-09-21T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/diazpace-2023-ecsa/"
+                href="http://localhost:1313/publication/diazpace-2023-ecsa/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/vierhauser-2023-jss/</loc>
+    <loc>http://localhost:1313/publication/vierhauser-2023-jss/</loc>
     <lastmod>2023-02-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/vierhauser-2023-jss/"
+                href="http://localhost:1313/publication/vierhauser-2023-jss/"
                 />
   </url>
   
@@ -804,35 +804,24 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2023-jss/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2023-jss/</loc>
     <lastmod>2023-02-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2023-jss/"
+                href="http://localhost:1313/publication/wohlrab-2023-jss/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/matthies-2023/</loc>
+    <loc>http://localhost:1313/publication/matthies-2023/</loc>
     <lastmod>2023-02-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/matthies-2023/"
-                />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2023-02-18T16:19:56+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href=""
+                href="http://localhost:1313/publication/matthies-2023/"
                 />
   </url>
   
@@ -848,57 +837,68 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/camara-2023-jss/</loc>
+    <loc></loc>
+    <lastmod>2023-02-18T16:19:56+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href=""
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publication/camara-2023-jss/</loc>
     <lastmod>2023-01-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/camara-2023-jss/"
+                href="http://localhost:1313/publication/camara-2023-jss/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/"
+                href="http://localhost:1313/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/research/"
+                href="http://localhost:1313/research/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/service/</loc>
+    <loc>http://localhost:1313/service/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/service/"
+                href="http://localhost:1313/service/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/teaching/"
+                href="http://localhost:1313/teaching/"
                 />
   </url>
   
@@ -925,13 +925,13 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/weyns-2022/</loc>
+    <loc>http://localhost:1313/publication/weyns-2022/</loc>
     <lastmod>2022-10-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/weyns-2022/"
+                href="http://localhost:1313/publication/weyns-2022/"
                 />
   </url>
   
@@ -958,13 +958,13 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/vierhauser-2022-cns/</loc>
+    <loc>http://localhost:1313/publication/vierhauser-2022-cns/</loc>
     <lastmod>2022-09-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/vierhauser-2022-cns/"
+                href="http://localhost:1313/publication/vierhauser-2022-cns/"
                 />
   </url>
   
@@ -980,24 +980,24 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2022-seams/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2022-seams/</loc>
     <lastmod>2022-02-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2022-seams/"
+                href="http://localhost:1313/publication/wohlrab-2022-seams/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2021-rej/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2021-rej/</loc>
     <lastmod>2020-11-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2021-rej/"
+                href="http://localhost:1313/publication/wohlrab-2021-rej/"
                 />
   </url>
   
@@ -1013,35 +1013,35 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/bucaioni-2021/</loc>
+    <loc>http://localhost:1313/publication/bucaioni-2021/</loc>
     <lastmod>2021-01-22T17:50:44+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/bucaioni-2021/"
+                href="http://localhost:1313/publication/bucaioni-2021/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2021-refsq/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2021-refsq/</loc>
     <lastmod>2021-01-21T11:57:23+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2021-refsq/"
+                href="http://localhost:1313/publication/wohlrab-2021-refsq/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication-type/7/</loc>
+    <loc>http://localhost:1313/publication-type/7/</loc>
     <lastmod>2020-11-18T16:23:48+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication-type/7/"
+                href="http://localhost:1313/publication-type/7/"
                 />
   </url>
   
@@ -1068,24 +1068,24 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/kasauli-2020/</loc>
+    <loc>http://localhost:1313/publication/kasauli-2020/</loc>
     <lastmod>2020-11-18T16:19:54+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/kasauli-2020/"
+                href="http://localhost:1313/publication/kasauli-2020/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2018-reen/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2018-reen/</loc>
     <lastmod>2020-11-18T16:20:44+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2018-reen/"
+                href="http://localhost:1313/publication/wohlrab-2018-reen/"
                 />
   </url>
   
@@ -1112,35 +1112,35 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2020-living/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2020-living/</loc>
     <lastmod>2020-11-18T16:23:48+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2020-living/"
+                href="http://localhost:1313/publication/wohlrab-2020-living/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/maro-2020/</loc>
+    <loc>http://localhost:1313/publication/maro-2020/</loc>
     <lastmod>2020-11-18T16:20:47+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/maro-2020/"
+                href="http://localhost:1313/publication/maro-2020/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2020-modeling/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2020-modeling/</loc>
     <lastmod>2020-11-18T16:19:53+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2020-modeling/"
+                href="http://localhost:1313/publication/wohlrab-2020-modeling/"
                 />
   </url>
   
@@ -1167,35 +1167,35 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2020-ecmfa/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2020-ecmfa/</loc>
     <lastmod>2020-11-18T16:19:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2020-ecmfa/"
+                href="http://localhost:1313/publication/wohlrab-2020-ecmfa/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2020-jss/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2020-jss/</loc>
     <lastmod>2020-11-18T16:20:46+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2020-jss/"
+                href="http://localhost:1313/publication/wohlrab-2020-jss/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2020-ieee-software/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2020-ieee-software/</loc>
     <lastmod>2020-11-18T16:20:45+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2020-ieee-software/"
+                href="http://localhost:1313/publication/wohlrab-2020-ieee-software/"
                 />
   </url>
   
@@ -1211,24 +1211,24 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2019-icsa-survey/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2019-icsa-survey/</loc>
     <lastmod>2020-11-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2019-icsa-survey/"
+                href="http://localhost:1313/publication/wohlrab-2019-icsa-survey/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2019-icsa-interface/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2019-icsa-interface/</loc>
     <lastmod>2020-11-18T16:19:57+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2019-icsa-interface/"
+                href="http://localhost:1313/publication/wohlrab-2019-icsa-interface/"
                 />
   </url>
   
@@ -1257,17 +1257,6 @@
   <url>
     <loc></loc>
     <lastmod>2020-11-18T16:19:57+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href=""
-                />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-11-18T16:19:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1288,24 +1277,35 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2019-jsme/</loc>
+    <loc></loc>
+    <lastmod>2020-11-18T16:19:56+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href=""
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publication/wohlrab-2019-jsme/</loc>
     <lastmod>2020-11-18T16:20:43+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2019-jsme/"
+                href="http://localhost:1313/publication/wohlrab-2019-jsme/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/steghofer-2019/</loc>
+    <loc>http://localhost:1313/publication/steghofer-2019/</loc>
     <lastmod>2020-11-18T16:20:08+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/steghofer-2019/"
+                href="http://localhost:1313/publication/steghofer-2019/"
                 />
   </url>
   
@@ -1343,24 +1343,24 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/knauss-2018-t-reqs/</loc>
+    <loc>http://localhost:1313/publication/knauss-2018-t-reqs/</loc>
     <lastmod>2020-11-18T16:20:07+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/knauss-2018-t-reqs/"
+                href="http://localhost:1313/publication/knauss-2018-t-reqs/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/garcia-2018/</loc>
+    <loc>http://localhost:1313/publication/garcia-2018/</loc>
     <lastmod>2020-11-18T16:20:02+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/garcia-2018/"
+                href="http://localhost:1313/publication/garcia-2018/"
                 />
   </url>
   
@@ -1398,13 +1398,13 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2018-icssp/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2018-icssp/</loc>
     <lastmod>2020-11-18T16:19:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2018-icssp/"
+                href="http://localhost:1313/publication/wohlrab-2018-icssp/"
                 />
   </url>
   
@@ -1420,57 +1420,57 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2018-refsq/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2018-refsq/</loc>
     <lastmod>2020-11-18T16:19:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2018-refsq/"
+                href="http://localhost:1313/publication/wohlrab-2018-refsq/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/news/</loc>
+    <loc>http://localhost:1313/news/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/news/"
+                href="http://localhost:1313/news/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2017/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2017/</loc>
     <lastmod>2020-11-18T16:20:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2017/"
+                href="http://localhost:1313/publication/wohlrab-2017/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2016/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2016/</loc>
     <lastmod>2020-11-18T16:20:03+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2016/"
+                href="http://localhost:1313/publication/wohlrab-2016/"
                 />
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/maro-2016/</loc>
+    <loc>http://localhost:1313/publication/maro-2016/</loc>
     <lastmod>2020-11-18T16:20:05+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/maro-2016/"
+                href="http://localhost:1313/publication/maro-2016/"
                 />
   </url>
   
@@ -1486,13 +1486,13 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/publication/wohlrab-2014/</loc>
+    <loc>http://localhost:1313/publication/wohlrab-2014/</loc>
     <lastmod>2020-11-18T16:20:10+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/publication/wohlrab-2014/"
+                href="http://localhost:1313/publication/wohlrab-2014/"
                 />
   </url>
   
@@ -1519,12 +1519,12 @@
   </url>
   
   <url>
-    <loc>https://rebekkaa.github.io/research_old/</loc>
+    <loc>http://localhost:1313/research_old/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
-                href="https://rebekkaa.github.io/research_old/"
+                href="http://localhost:1313/research_old/"
                 />
   </url>
   
