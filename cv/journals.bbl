@@ -1,0 +1,96 @@
+\begin{thebibliography}{10}
+
+\bibitem{Wohlrab2018REEN}
+Rebekka Wohlrab, Eric Knauss, Jan-Philipp Steghöfer, Salome Maro, Anthony
+  Anjorin, and Patrizio Pelliccione.
+\newblock Collaborative traceability management: a multiple case study from the
+  perspectives of organization, process, and culture.
+\newblock {\em Requirements Engineering}, 2020.
+
+\bibitem{Wohlrab2019JSME}
+Rebekka Wohlrab, Patrizio Pelliccione, Eric Knauss, and Mats Larsson.
+\newblock Boundary objects and their use in agile systems engineering.
+\newblock {\em Journal of Software: Evolution and Process}, 31(5), 2019.
+
+\bibitem{Wohlrab2020IEEESoftware}
+Rebekka Wohlrab, Patrizio Pelliccione, Ali Shahrokni, and Eric Knauss.
+\newblock Why and how your traceability should evolve: Insights from an
+  automotive supplier.
+\newblock {\em IEEE Software}, 2020.
+
+\bibitem{Wohlrab2020JSS}
+Rebekka Wohlrab, Eric Knauss, and Patrizio Pelliccione.
+\newblock Why and how to balance alignment and diversity of requirements
+  engineering practices in automotive.
+\newblock {\em Journal of Systems and Software}, 162:110516, 2020.
+
+\bibitem{Maro2020}
+Salome Maro, Jan-Philipp Steghöfer, Eric Knauss, Jennifer Horkoff, Rashidah
+  Kasauli, Rebekka Wohlrab, Jesper~Lysemose Korsgaard, Florian Wartenberg,
+  Niels~J. Strøm, and Ruben Alexandersson.
+\newblock Managing traceability information models: Not such a simple task
+  after all?
+\newblock {\em IEEE Software}, 2020.
+
+\bibitem{Wohlrab2021negotiation}
+Rebekka Wohlrab and David Garlan.
+\newblock A negotiation support system for defining utility functions for
+  multi-stakeholder self-adaptive systems.
+\newblock {\em Requirements Engineering}, 2021.
+
+\bibitem{weyns2022guidelines}
+Danny Weyns, Ilias Gerostathopoulos, Barbora Buhnova, Nicol{\'a}s Cardozo,
+  Emilia Cioroaica, Ivana Dusparic, Lars Grunske, Pooyan Jamshidi, Christine
+  Julien, Judith Michael, et~al.
+\newblock Guidelines for artifacts to support industry-relevant research on
+  self-adaptation.
+\newblock {\em ACM SIGSOFT Software Engineering Notes}, 47(4):18--24, 2022.
+
+\bibitem{Wohlrab2023JSS}
+Rebekka Wohlrab, Javier Cámara, David Garlan, and Bradley Schmerl.
+\newblock Explaining quality attribute tradeoffs in automated planning for
+  self-adaptive systems.
+\newblock {\em Journal of Systems and Software}, 2023.
+
+\bibitem{Camara2023}
+Javier Cámara, Rebekka Wohlrab, David Garlan, and Bradley Schmerl.
+\newblock {ExTrA}: Explaining architectural design tradeoff spaces via
+  dimensionality reduction.
+\newblock {\em Journal of Systems and Software}, 198:111578, 2023.
+
+\bibitem{Vierhauser2023}
+Michael Vierhauser, Rebekka Wohlrab, Marco Stadler, and Jane Cleland-Huang.
+\newblock {AMon}: A domain-specific language and framework for adaptive
+  monitoring of cyber-physical systems.
+\newblock {\em Journal of Systems and Software}, 2023.
+
+\bibitem{Santilli2024IEEE}
+Tiziano Santilli, Patrizio Pelliccione, Rebekka Wohlrab, and Ali Shahrokni.
+\newblock What is continuous compliance.
+\newblock {\em IEEE Software}, 2024.
+
+\bibitem{Holtmann2024}
+Jörg Holtmann, Jennifer Horkoff, Rebekka Wohlrab, Victoria Vu, Rashidah
+  Kasauli, Salome Maro, {Jan-Philipp} Stegh\"ofer, and Eric Knauss.
+\newblock Using boundary objects and methodological island ({BOMI}) modeling in
+  large-scale agile systems development.
+\newblock {\em Software and Systems Modeling}, 2024.
+
+\bibitem{liebel2024humanfactorsmodeldrivenengineering}
+Grischa Liebel, Jil Klünder, Regina Hebig, Christopher Lazik, Inês Nunes,
+  Isabella Graßl, Jan-Philipp Steghöfer, Joeri Exelmans, Julian Oertel, Kai
+  Marquardt, Katharina Juhnke, Kurt Schneider, Lucas Gren, Lucia Happe, Marc
+  Herrmann, Marvin Wyrich, Matthias Tichy, Miguel Goulão, Rebekka Wohlrab,
+  Reyhaneh Kalantari, Robert Heinrich, Sandra Greiner, Satrio~Adi Rukmono,
+  Shalini Chakraborty, Silvia Abrahão, and Vasco Amaral.
+\newblock Human factors in model-driven engineering: Future research goals and
+  initiatives for mde.
+\newblock {\em Software and Systems Modeling}, 2024.
+
+\bibitem{Camara2024IEEE}
+Javier Cámara, Rebekka Wohlrab, David Garlan, and Bradley Schmerl.
+\newblock Focusing on what matters: Explaining quality tradeoffs in
+  software-intensive systems via dimensionality reduction.
+\newblock {\em IEEE Software}, 2024.
+
+\end{thebibliography}

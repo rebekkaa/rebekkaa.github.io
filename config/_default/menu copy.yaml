@@ -1,0 +1,14 @@
+main:
+  - name: About
+    url: ''
+    weight: 10
+  - name: Research
+    url: 'research'
+    weight: 13
+  - name: Teaching
+    url: 'teaching'
+    weight: 20
+  - name: Service
+    url: 'service'
+    weight: 30
+
