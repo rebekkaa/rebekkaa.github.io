@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/author/david-garlan/</link>
+      <atom:link href="http://localhost:1313/author/david-garlan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Academic CV Theme</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Hugo Academic CV Theme</title>
+      <link>http://localhost:1313/author/david-garlan/</link>
+    </image>
+    
+    <item>
+      <title>Guidelines for Supporting Software Engineers in Developing Secure Web Applications</title>
+      <link>http://localhost:1313/publication/svensson-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/svensson-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Early Architectural Decision-Making Through Tradeoff Analysis: A Study with Volvo Cars</title>
+      <link>http://localhost:1313/publication/oqvist-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/oqvist-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting value-aware software engineering through traceability and value tactics</title>
+      <link>http://localhost:1313/publication/wohlrab-2024-profes/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wohlrab-2024-profes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems</title>
+      <link>http://localhost:1313/publication/vierhauser-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vierhauser-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting the Exploration of Quality Attribute Tradeoffs in Large Design Spaces</title>
+      <link>http://localhost:1313/publication/diaz-pace-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/diaz-pace-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/service/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation</title>
+      <link>http://localhost:1313/publication/weyns-2022-guidelines/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/weyns-2022-guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards cost-benefit-aware adaptive monitoring for cyber-physical systems</title>
+      <link>http://localhost:1313/publication/vierhauser-2022-towards/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vierhauser-2022-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Negotiation Support System for Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems</title>
+      <link>http://localhost:1313/publication/wohlrab-2021-negotiation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wohlrab-2021-negotiation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do Users Expect of Bidirectional Transformations?</title>
+      <link>http://localhost:1313/publication/wohlrab-2020-users/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wohlrab-2020-users/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
