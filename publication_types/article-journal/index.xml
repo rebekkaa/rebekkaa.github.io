@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | Rebekka Wohlrab</title>
-    <link>//localhost:1313/publication_types/article-journal/</link>
-      <atom:link href="//localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>rebekkaa.github.io/publication_types/article-journal/</link>
+      <atom:link href="rebekkaa.github.io/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu15982611272951754077.png</url>
+      <url>rebekkaa.github.io/media/icon_hu15982611272951754077.png</url>
       <title>Article-Journal</title>
-      <link>//localhost:1313/publication_types/article-journal/</link>
+      <link>rebekkaa.github.io/publication_types/article-journal/</link>
     </image>
     
     <item>
       <title>AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems</title>
-      <link>//localhost:1313/publication/vierhauser-2023/</link>
+      <link>rebekkaa.github.io/publication/vierhauser-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/vierhauser-2023/</guid>
+      <guid>rebekkaa.github.io/publication/vierhauser-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation</title>
-      <link>//localhost:1313/publication/weyns-2022-guidelines/</link>
+      <link>rebekkaa.github.io/publication/weyns-2022-guidelines/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/weyns-2022-guidelines/</guid>
+      <guid>rebekkaa.github.io/publication/weyns-2022-guidelines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Negotiation Support System for Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems</title>
-      <link>//localhost:1313/publication/wohlrab-2021-negotiation/</link>
+      <link>rebekkaa.github.io/publication/wohlrab-2021-negotiation/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/wohlrab-2021-negotiation/</guid>
+      <guid>rebekkaa.github.io/publication/wohlrab-2021-negotiation/</guid>
       <description></description>
     </item>
     
