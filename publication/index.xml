@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu15982611272951754077.png</url>
       <title>Publications</title>
@@ -14,25 +14,25 @@
     
     <item>
       <title>Challenges in Creating Effective Automated Design Environments: An experience report from the domain of generative manufacturing</title>
-      <link>/publication/garlan-2024-designing/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/garlan-2024-designing/</guid>
+      <link>/publication/garlan-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/garlan-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Compliance in the Automotive Industry</title>
-      <link>/publication/santilli-2024-ieee/</link>
+      <link>/publication/santilli-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/santilli-2024-ieee/</guid>
+      <guid>/publication/santilli-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Focusing on What Matters: Explaining Quality Tradeoffs in Software-Intensive Systems via Dimensionality Reduction</title>
-      <link>/publication/camara-2024-ieee/</link>
+      <link>/publication/camara-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/camara-2024-ieee/</guid>
+      <guid>/publication/camara-2024/</guid>
       <description></description>
     </item>
     
