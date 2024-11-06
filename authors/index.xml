@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/authors/</link>
+      <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Authors</title>
+      <link>http://localhost:1313/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebekka Wohlrab</title>
+      <link>http://localhost:1313/author/rebekka-wohlrab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/rebekka-wohlrab/</guid>
+      <description>&lt;p&gt;I am a tenure-track assistant professor in Software Engineering at &lt;a href=&#34;https://www.chalmers.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chalmers University of Technology&lt;/a&gt; in Gothenburg, Sweden. I am also an adjunct faculty member in the Software and Societal Systems Department (S3D) at &lt;a href=&#34;https://cmu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carnegie Mellon University&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I lead a research group that is partially supported by the &lt;a href=&#34;https://wasp-sweden.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wallenberg AI, Autonomous Systems and Software Program (WASP)&lt;/a&gt; funded by the Knut and Alice Wallenberg Foundation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

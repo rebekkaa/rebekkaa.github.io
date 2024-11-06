@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Rebekka Wohlrab</title>
+    <link>//localhost:1313/publication_types/paper-conference/</link>
+      <atom:link href="//localhost:1313/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu15982611272951754077.png</url>
+      <title>Paper-Conference</title>
+      <link>//localhost:1313/publication_types/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>Guidelines for Supporting Software Engineers in Developing Secure Web Applications</title>
+      <link>//localhost:1313/publication/svensson-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/svensson-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Early Architectural Decision-Making Through Tradeoff Analysis: A Study with Volvo Cars</title>
+      <link>//localhost:1313/publication/oqvist-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/oqvist-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting value-aware software engineering through traceability and value tactics</title>
+      <link>//localhost:1313/publication/wohlrab-2024-profes/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/wohlrab-2024-profes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting the Exploration of Quality Attribute Tradeoffs in Large Design Spaces</title>
+      <link>//localhost:1313/publication/diaz-pace-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/diaz-pace-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards cost-benefit-aware adaptive monitoring for cyber-physical systems</title>
+      <link>//localhost:1313/publication/vierhauser-2022-towards/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/vierhauser-2022-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do Users Expect of Bidirectional Transformations?</title>
+      <link>//localhost:1313/publication/wohlrab-2020-users/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/wohlrab-2020-users/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
