@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rebekka Wohlrab&#39;s personal website | Rebekka Wohlrab</title>
+    <title>Rebekka Wohlrab</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Rebekka Wohlrab&#39;s personal website</description>
+    <description>Rebekka Wohlrab</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu15982611272951754077.png</url>
-      <title>Rebekka Wohlrab&#39;s personal website</title>
+      <title>Rebekka Wohlrab</title>
       <link>/</link>
     </image>
     
