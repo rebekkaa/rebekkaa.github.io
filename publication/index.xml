@@ -2,365 +2,365 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Rebekka Wohlrab</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/publication/</link>
+      <atom:link href="//localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu15982611272951754077.png</url>
+      <url>//localhost:1313/media/icon_hu15982611272951754077.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>//localhost:1313/publication/</link>
     </image>
     
     <item>
       <title>Challenges in Creating Effective Automated Design Environments: An experience report from the domain of generative manufacturing</title>
-      <link>/publication/garlan-2024/</link>
+      <link>//localhost:1313/publication/garlan-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/garlan-2024/</guid>
+      <guid>//localhost:1313/publication/garlan-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Compliance in the Automotive Industry</title>
-      <link>/publication/santilli-2024/</link>
+      <link>//localhost:1313/publication/santilli-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/santilli-2024/</guid>
+      <guid>//localhost:1313/publication/santilli-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Focusing on What Matters: Explaining Quality Tradeoffs in Software-Intensive Systems via Dimensionality Reduction</title>
-      <link>/publication/camara-2024/</link>
+      <link>//localhost:1313/publication/camara-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/camara-2024/</guid>
+      <guid>//localhost:1313/publication/camara-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guidelines for Supporting Software Engineers in Developing Secure Web Applications</title>
-      <link>/publication/svensson-2024/</link>
+      <link>//localhost:1313/publication/svensson-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/svensson-2024/</guid>
+      <guid>//localhost:1313/publication/svensson-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human Factors in Model-Driven Engineering: Future Research Goals and Initiatives for MDE</title>
-      <link>/publication/liebel-2024/</link>
+      <link>//localhost:1313/publication/liebel-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/liebel-2024/</guid>
+      <guid>//localhost:1313/publication/liebel-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increasing the Confidence in Security Assurance Cases using Game Theory</title>
-      <link>/publication/welzel-2024-ares/</link>
+      <link>//localhost:1313/publication/welzel-2024-ares/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/welzel-2024-ares/</guid>
+      <guid>//localhost:1313/publication/welzel-2024-ares/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introducing Architecture Decision Records in Practice: An Action Research Study</title>
-      <link>/publication/ahmeti-2024/</link>
+      <link>//localhost:1313/publication/ahmeti-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/ahmeti-2024/</guid>
+      <guid>//localhost:1313/publication/ahmeti-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meta-Adaptation Goals: Leveraging Feedback Loop Requirements for Effective Self-Adaptation</title>
-      <link>/publication/groner-2024-aias/</link>
+      <link>//localhost:1313/publication/groner-2024-aias/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/groner-2024-aias/</guid>
+      <guid>//localhost:1313/publication/groner-2024-aias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Not All Conflicts Are the Same: An Empirical Study of Requirement Conflicts in Practice</title>
-      <link>/publication/welzel-2024-seaa/</link>
+      <link>//localhost:1313/publication/welzel-2024-seaa/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/welzel-2024-seaa/</guid>
+      <guid>//localhost:1313/publication/welzel-2024-seaa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supporting Early Architectural Decision-Making Through Tradeoff Analysis: A Study with Volvo Cars</title>
-      <link>/publication/oqvist-2024/</link>
+      <link>//localhost:1313/publication/oqvist-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/oqvist-2024/</guid>
+      <guid>//localhost:1313/publication/oqvist-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supporting value-aware software engineering through traceability and value tactics</title>
-      <link>/publication/wohlrab-2024-profes/</link>
+      <link>//localhost:1313/publication/wohlrab-2024-profes/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2024-profes/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2024-profes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Boundary Objects and Methodological Island (BOMI) Modeling in Large-Scale  Agile Systems Development</title>
-      <link>/publication/holtmann-2024/</link>
+      <link>//localhost:1313/publication/holtmann-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/holtmann-2024/</guid>
+      <guid>//localhost:1313/publication/holtmann-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>We&#39;re Drifting Apart: Architectural Drift from the Developers&#39; Perspective</title>
-      <link>/publication/anthony-2024/</link>
+      <link>//localhost:1313/publication/anthony-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/anthony-2024/</guid>
+      <guid>//localhost:1313/publication/anthony-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Impact do my Preferences Have? A Framework for Explanation-Based Elicitation of Quality Objectives for Robotic Mission Planning</title>
-      <link>/publication/wohlrab-2024-refsq/</link>
+      <link>//localhost:1313/publication/wohlrab-2024-refsq/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2024-refsq/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2024-refsq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems</title>
-      <link>/publication/vierhauser-2023/</link>
+      <link>//localhost:1313/publication/vierhauser-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/vierhauser-2023/</guid>
+      <guid>//localhost:1313/publication/vierhauser-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining Quality Attribute Tradeoffs in Automated Planning for Self-Adaptive Systems</title>
-      <link>/publication/wohlrab-2023-jss/</link>
+      <link>//localhost:1313/publication/wohlrab-2023-jss/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2023-jss/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2023-jss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ExTrA: Explaining architectural design tradeoff spaces via dimensionality reduction</title>
-      <link>/publication/camara-2023/</link>
+      <link>//localhost:1313/publication/camara-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/camara-2023/</guid>
+      <guid>//localhost:1313/publication/camara-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating Software Engineering Artifacts in DevOps Through the Lens of Boundary Objects</title>
-      <link>/publication/matthies-2023/</link>
+      <link>//localhost:1313/publication/matthies-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/matthies-2023/</guid>
+      <guid>//localhost:1313/publication/matthies-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supporting the Exploration of Quality Attribute Tradeoffs in Large Design Spaces</title>
-      <link>/publication/diaz-pace-2023/</link>
+      <link>//localhost:1313/publication/diaz-pace-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/diaz-pace-2023/</guid>
+      <guid>//localhost:1313/publication/diaz-pace-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation</title>
-      <link>/publication/weyns-2022-guidelines/</link>
+      <link>//localhost:1313/publication/weyns-2022-guidelines/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/weyns-2022-guidelines/</guid>
+      <guid>//localhost:1313/publication/weyns-2022-guidelines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Run-Time Adaptation of Quality Attributes for Automated Planning</title>
-      <link>/publication/wohlrab-2022-seams/</link>
+      <link>//localhost:1313/publication/wohlrab-2022-seams/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2022-seams/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2022-seams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards cost-benefit-aware adaptive monitoring for cyber-physical systems</title>
-      <link>/publication/vierhauser-2022-towards/</link>
+      <link>//localhost:1313/publication/vierhauser-2022-towards/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/vierhauser-2022-towards/</guid>
+      <guid>//localhost:1313/publication/vierhauser-2022-towards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Negotiation Support System for Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems</title>
-      <link>/publication/wohlrab-2021-negotiation/</link>
+      <link>//localhost:1313/publication/wohlrab-2021-negotiation/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2021-negotiation/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2021-negotiation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aligning Architecture with Business Goals in the Automotive Domain</title>
-      <link>/publication/bucaioni-2021/</link>
+      <link>//localhost:1313/publication/bucaioni-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/bucaioni-2021/</guid>
+      <guid>//localhost:1313/publication/bucaioni-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems</title>
-      <link>/publication/wohlrab-2021-refsq/</link>
+      <link>//localhost:1313/publication/wohlrab-2021-refsq/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2021-refsq/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2021-refsq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Charting Coordination Needs in Large-Scale Agile Organisations with Boundary Objects and Methodological Islands</title>
-      <link>/publication/kasauli-2020/</link>
+      <link>//localhost:1313/publication/kasauli-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/kasauli-2020/</guid>
+      <guid>//localhost:1313/publication/kasauli-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative traceability management: a multiple case study from the perspectives of organization, process, and culture</title>
-      <link>/publication/wohlrab-2018-reen/</link>
+      <link>//localhost:1313/publication/wohlrab-2018-reen/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2018-reen/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2018-reen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Managing Traceability Information Models: Not Such a Simple Task After All?</title>
-      <link>/publication/maro-2020/</link>
+      <link>//localhost:1313/publication/maro-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/maro-2020/</guid>
+      <guid>//localhost:1313/publication/maro-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and Analysis of Boundary Objects and Methodological Islands in Large-Scale Systems Development</title>
-      <link>/publication/wohlrab-2020-modeling/</link>
+      <link>//localhost:1313/publication/wohlrab-2020-modeling/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2020-modeling/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2020-modeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What do Users Expect of Bidirectional Transformations?</title>
-      <link>/publication/wohlrab-2020-users/</link>
+      <link>//localhost:1313/publication/wohlrab-2020-users/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2020-users/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2020-users/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why and how to balance alignment and diversity of requirements engineering practices in automotive</title>
-      <link>/publication/wohlrab-2020-jss/</link>
+      <link>//localhost:1313/publication/wohlrab-2020-jss/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2020-jss/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2020-jss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why and How Your Traceability Should Evolve: Insights from an Automotive Supplier</title>
-      <link>/publication/wohlrab-2020-ieee-software/</link>
+      <link>//localhost:1313/publication/wohlrab-2020-ieee-software/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2020-ieee-software/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2020-ieee-software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving the Consistency and Usefulness of Architecture Descriptions: Guidelines for Architects</title>
-      <link>/publication/wohlrab-2019-icsa-survey/</link>
+      <link>//localhost:1313/publication/wohlrab-2019-icsa-survey/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2019-icsa-survey/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2019-icsa-survey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Interfaces to Support Agile Architecting in Automotive: An Exploratory Case Study</title>
-      <link>/publication/wohlrab-2019-icsa-interface/</link>
+      <link>//localhost:1313/publication/wohlrab-2019-icsa-interface/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2019-icsa-interface/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2019-icsa-interface/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boundary objects and their use in agile systems engineering</title>
-      <link>/publication/wohlrab-2019-jsme/</link>
+      <link>//localhost:1313/publication/wohlrab-2019-jsme/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2019-jsme/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2019-jsme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Challenges of Scaled Agile for Safety-Critical Systems</title>
-      <link>/publication/steghofer-2019/</link>
+      <link>//localhost:1313/publication/steghofer-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/steghofer-2019/</guid>
+      <guid>//localhost:1313/publication/steghofer-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T-Reqs: Tool Support for Managing Requirements in Large-Scale Agile System Development</title>
-      <link>/publication/knauss-2018-t-reqs/</link>
+      <link>//localhost:1313/publication/knauss-2018-t-reqs/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/knauss-2018-t-reqs/</guid>
+      <guid>//localhost:1313/publication/knauss-2018-t-reqs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Architecture for Decentralized, Collaborative, and Autonomous Robots</title>
-      <link>/publication/garcia-2018/</link>
+      <link>//localhost:1313/publication/garcia-2018/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/garcia-2018/</guid>
+      <guid>//localhost:1313/publication/garcia-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boundary Objects in Agile Practices: Continuous Management of Systems Engineering Artifacts in the Automotive Domain</title>
-      <link>/publication/wohlrab-2018-icssp/</link>
+      <link>//localhost:1313/publication/wohlrab-2018-icssp/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2018-icssp/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2018-icssp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Problem of Consolidating RE Practices at Scale: An Ethnographic Study</title>
-      <link>/publication/wohlrab-2018-refsq/</link>
+      <link>//localhost:1313/publication/wohlrab-2018-refsq/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2018-refsq/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2018-refsq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Management of Design- and Run-Time Artifacts for Self-Adaptive Systems</title>
-      <link>/publication/wohlrab-2017/</link>
+      <link>//localhost:1313/publication/wohlrab-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2017/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative Traceability Management: Challenges and Opportunities</title>
-      <link>/publication/wohlrab-2016/</link>
+      <link>//localhost:1313/publication/wohlrab-2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2016/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Traceability Maintenance: Factors and Guidelines</title>
-      <link>/publication/maro-2016/</link>
+      <link>//localhost:1313/publication/maro-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/maro-2016/</guid>
+      <guid>//localhost:1313/publication/maro-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience of pragmatically combining RE methods for performance requirements in industry</title>
-      <link>/publication/wohlrab-2014/</link>
+      <link>//localhost:1313/publication/wohlrab-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2014/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2014/</guid>
       <description></description>
     </item>
     

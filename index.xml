@@ -2,389 +2,389 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rebekka Wohlrab</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/</link>
+      <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Rebekka Wohlrab</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu15982611272951754077.png</url>
+      <url>//localhost:1313/media/icon_hu15982611272951754077.png</url>
       <title>Rebekka Wohlrab</title>
-      <link>/</link>
+      <link>//localhost:1313/</link>
     </image>
     
     <item>
       <title>Challenges in Creating Effective Automated Design Environments: An experience report from the domain of generative manufacturing</title>
-      <link>/publication/garlan-2024/</link>
+      <link>//localhost:1313/publication/garlan-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/garlan-2024/</guid>
+      <guid>//localhost:1313/publication/garlan-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Compliance in the Automotive Industry</title>
-      <link>/publication/santilli-2024/</link>
+      <link>//localhost:1313/publication/santilli-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/santilli-2024/</guid>
+      <guid>//localhost:1313/publication/santilli-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Focusing on What Matters: Explaining Quality Tradeoffs in Software-Intensive Systems via Dimensionality Reduction</title>
-      <link>/publication/camara-2024/</link>
+      <link>//localhost:1313/publication/camara-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/camara-2024/</guid>
+      <guid>//localhost:1313/publication/camara-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guidelines for Supporting Software Engineers in Developing Secure Web Applications</title>
-      <link>/publication/svensson-2024/</link>
+      <link>//localhost:1313/publication/svensson-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/svensson-2024/</guid>
+      <guid>//localhost:1313/publication/svensson-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human Factors in Model-Driven Engineering: Future Research Goals and Initiatives for MDE</title>
-      <link>/publication/liebel-2024/</link>
+      <link>//localhost:1313/publication/liebel-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/liebel-2024/</guid>
+      <guid>//localhost:1313/publication/liebel-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increasing the Confidence in Security Assurance Cases using Game Theory</title>
-      <link>/publication/welzel-2024-ares/</link>
+      <link>//localhost:1313/publication/welzel-2024-ares/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/welzel-2024-ares/</guid>
+      <guid>//localhost:1313/publication/welzel-2024-ares/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introducing Architecture Decision Records in Practice: An Action Research Study</title>
-      <link>/publication/ahmeti-2024/</link>
+      <link>//localhost:1313/publication/ahmeti-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/ahmeti-2024/</guid>
+      <guid>//localhost:1313/publication/ahmeti-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meta-Adaptation Goals: Leveraging Feedback Loop Requirements for Effective Self-Adaptation</title>
-      <link>/publication/groner-2024-aias/</link>
+      <link>//localhost:1313/publication/groner-2024-aias/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/groner-2024-aias/</guid>
+      <guid>//localhost:1313/publication/groner-2024-aias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Not All Conflicts Are the Same: An Empirical Study of Requirement Conflicts in Practice</title>
-      <link>/publication/welzel-2024-seaa/</link>
+      <link>//localhost:1313/publication/welzel-2024-seaa/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/welzel-2024-seaa/</guid>
+      <guid>//localhost:1313/publication/welzel-2024-seaa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supporting Early Architectural Decision-Making Through Tradeoff Analysis: A Study with Volvo Cars</title>
-      <link>/publication/oqvist-2024/</link>
+      <link>//localhost:1313/publication/oqvist-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/oqvist-2024/</guid>
+      <guid>//localhost:1313/publication/oqvist-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supporting value-aware software engineering through traceability and value tactics</title>
-      <link>/publication/wohlrab-2024-profes/</link>
+      <link>//localhost:1313/publication/wohlrab-2024-profes/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2024-profes/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2024-profes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Boundary Objects and Methodological Island (BOMI) Modeling in Large-Scale  Agile Systems Development</title>
-      <link>/publication/holtmann-2024/</link>
+      <link>//localhost:1313/publication/holtmann-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/holtmann-2024/</guid>
+      <guid>//localhost:1313/publication/holtmann-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>We&#39;re Drifting Apart: Architectural Drift from the Developers&#39; Perspective</title>
-      <link>/publication/anthony-2024/</link>
+      <link>//localhost:1313/publication/anthony-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/anthony-2024/</guid>
+      <guid>//localhost:1313/publication/anthony-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Impact do my Preferences Have? A Framework for Explanation-Based Elicitation of Quality Objectives for Robotic Mission Planning</title>
-      <link>/publication/wohlrab-2024-refsq/</link>
+      <link>//localhost:1313/publication/wohlrab-2024-refsq/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2024-refsq/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2024-refsq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems</title>
-      <link>/publication/vierhauser-2023/</link>
+      <link>//localhost:1313/publication/vierhauser-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/vierhauser-2023/</guid>
+      <guid>//localhost:1313/publication/vierhauser-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining Quality Attribute Tradeoffs in Automated Planning for Self-Adaptive Systems</title>
-      <link>/publication/wohlrab-2023-jss/</link>
+      <link>//localhost:1313/publication/wohlrab-2023-jss/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2023-jss/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2023-jss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ExTrA: Explaining architectural design tradeoff spaces via dimensionality reduction</title>
-      <link>/publication/camara-2023/</link>
+      <link>//localhost:1313/publication/camara-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/camara-2023/</guid>
+      <guid>//localhost:1313/publication/camara-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating Software Engineering Artifacts in DevOps Through the Lens of Boundary Objects</title>
-      <link>/publication/matthies-2023/</link>
+      <link>//localhost:1313/publication/matthies-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/matthies-2023/</guid>
+      <guid>//localhost:1313/publication/matthies-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supporting the Exploration of Quality Attribute Tradeoffs in Large Design Spaces</title>
-      <link>/publication/diaz-pace-2023/</link>
+      <link>//localhost:1313/publication/diaz-pace-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/diaz-pace-2023/</guid>
+      <guid>//localhost:1313/publication/diaz-pace-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/service/</link>
+      <link>//localhost:1313/service/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/service/</guid>
+      <guid>//localhost:1313/service/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/teaching/</link>
+      <link>//localhost:1313/teaching/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/teaching/</guid>
+      <guid>//localhost:1313/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation</title>
-      <link>/publication/weyns-2022-guidelines/</link>
+      <link>//localhost:1313/publication/weyns-2022-guidelines/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/weyns-2022-guidelines/</guid>
+      <guid>//localhost:1313/publication/weyns-2022-guidelines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Run-Time Adaptation of Quality Attributes for Automated Planning</title>
-      <link>/publication/wohlrab-2022-seams/</link>
+      <link>//localhost:1313/publication/wohlrab-2022-seams/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2022-seams/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2022-seams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards cost-benefit-aware adaptive monitoring for cyber-physical systems</title>
-      <link>/publication/vierhauser-2022-towards/</link>
+      <link>//localhost:1313/publication/vierhauser-2022-towards/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/vierhauser-2022-towards/</guid>
+      <guid>//localhost:1313/publication/vierhauser-2022-towards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Negotiation Support System for Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems</title>
-      <link>/publication/wohlrab-2021-negotiation/</link>
+      <link>//localhost:1313/publication/wohlrab-2021-negotiation/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2021-negotiation/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2021-negotiation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aligning Architecture with Business Goals in the Automotive Domain</title>
-      <link>/publication/bucaioni-2021/</link>
+      <link>//localhost:1313/publication/bucaioni-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/bucaioni-2021/</guid>
+      <guid>//localhost:1313/publication/bucaioni-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems</title>
-      <link>/publication/wohlrab-2021-refsq/</link>
+      <link>//localhost:1313/publication/wohlrab-2021-refsq/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2021-refsq/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2021-refsq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Charting Coordination Needs in Large-Scale Agile Organisations with Boundary Objects and Methodological Islands</title>
-      <link>/publication/kasauli-2020/</link>
+      <link>//localhost:1313/publication/kasauli-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/kasauli-2020/</guid>
+      <guid>//localhost:1313/publication/kasauli-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative traceability management: a multiple case study from the perspectives of organization, process, and culture</title>
-      <link>/publication/wohlrab-2018-reen/</link>
+      <link>//localhost:1313/publication/wohlrab-2018-reen/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2018-reen/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2018-reen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Managing Traceability Information Models: Not Such a Simple Task After All?</title>
-      <link>/publication/maro-2020/</link>
+      <link>//localhost:1313/publication/maro-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/maro-2020/</guid>
+      <guid>//localhost:1313/publication/maro-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and Analysis of Boundary Objects and Methodological Islands in Large-Scale Systems Development</title>
-      <link>/publication/wohlrab-2020-modeling/</link>
+      <link>//localhost:1313/publication/wohlrab-2020-modeling/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2020-modeling/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2020-modeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What do Users Expect of Bidirectional Transformations?</title>
-      <link>/publication/wohlrab-2020-users/</link>
+      <link>//localhost:1313/publication/wohlrab-2020-users/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2020-users/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2020-users/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why and how to balance alignment and diversity of requirements engineering practices in automotive</title>
-      <link>/publication/wohlrab-2020-jss/</link>
+      <link>//localhost:1313/publication/wohlrab-2020-jss/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2020-jss/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2020-jss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why and How Your Traceability Should Evolve: Insights from an Automotive Supplier</title>
-      <link>/publication/wohlrab-2020-ieee-software/</link>
+      <link>//localhost:1313/publication/wohlrab-2020-ieee-software/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2020-ieee-software/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2020-ieee-software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving the Consistency and Usefulness of Architecture Descriptions: Guidelines for Architects</title>
-      <link>/publication/wohlrab-2019-icsa-survey/</link>
+      <link>//localhost:1313/publication/wohlrab-2019-icsa-survey/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2019-icsa-survey/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2019-icsa-survey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Interfaces to Support Agile Architecting in Automotive: An Exploratory Case Study</title>
-      <link>/publication/wohlrab-2019-icsa-interface/</link>
+      <link>//localhost:1313/publication/wohlrab-2019-icsa-interface/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2019-icsa-interface/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2019-icsa-interface/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boundary objects and their use in agile systems engineering</title>
-      <link>/publication/wohlrab-2019-jsme/</link>
+      <link>//localhost:1313/publication/wohlrab-2019-jsme/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2019-jsme/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2019-jsme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Challenges of Scaled Agile for Safety-Critical Systems</title>
-      <link>/publication/steghofer-2019/</link>
+      <link>//localhost:1313/publication/steghofer-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/steghofer-2019/</guid>
+      <guid>//localhost:1313/publication/steghofer-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T-Reqs: Tool Support for Managing Requirements in Large-Scale Agile System Development</title>
-      <link>/publication/knauss-2018-t-reqs/</link>
+      <link>//localhost:1313/publication/knauss-2018-t-reqs/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/knauss-2018-t-reqs/</guid>
+      <guid>//localhost:1313/publication/knauss-2018-t-reqs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Architecture for Decentralized, Collaborative, and Autonomous Robots</title>
-      <link>/publication/garcia-2018/</link>
+      <link>//localhost:1313/publication/garcia-2018/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/garcia-2018/</guid>
+      <guid>//localhost:1313/publication/garcia-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boundary Objects in Agile Practices: Continuous Management of Systems Engineering Artifacts in the Automotive Domain</title>
-      <link>/publication/wohlrab-2018-icssp/</link>
+      <link>//localhost:1313/publication/wohlrab-2018-icssp/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2018-icssp/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2018-icssp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Problem of Consolidating RE Practices at Scale: An Ethnographic Study</title>
-      <link>/publication/wohlrab-2018-refsq/</link>
+      <link>//localhost:1313/publication/wohlrab-2018-refsq/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2018-refsq/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2018-refsq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Management of Design- and Run-Time Artifacts for Self-Adaptive Systems</title>
-      <link>/publication/wohlrab-2017/</link>
+      <link>//localhost:1313/publication/wohlrab-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2017/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative Traceability Management: Challenges and Opportunities</title>
-      <link>/publication/wohlrab-2016/</link>
+      <link>//localhost:1313/publication/wohlrab-2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2016/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Traceability Maintenance: Factors and Guidelines</title>
-      <link>/publication/maro-2016/</link>
+      <link>//localhost:1313/publication/maro-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/maro-2016/</guid>
+      <guid>//localhost:1313/publication/maro-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience of pragmatically combining RE methods for performance requirements in industry</title>
-      <link>/publication/wohlrab-2014/</link>
+      <link>//localhost:1313/publication/wohlrab-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/wohlrab-2014/</guid>
+      <guid>//localhost:1313/publication/wohlrab-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>/news/</link>
+      <link>//localhost:1313/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/news/</guid>
+      <guid>//localhost:1313/news/</guid>
       <description>
 
 
@@ -395,29 +395,29 @@
 
 
 &lt;p&gt;&lt;strong&gt;[November 2024]&lt;/strong&gt; I got a Starting Grant from &lt;a href=&#34;https://www.vr.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VR&lt;/a&gt; (the Swedish Research Council).&lt;/p&gt;
-&lt;p&gt;[September 2024] Papers accepted at &lt;a href=&#34;https://conf.researchr.org/home/profes-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROFES&lt;/a&gt; (1) a study on &lt;a href=&#34;/publication/svensson-2024/&#34;&gt;developing secure web applications&lt;/a&gt;, (2) a vision paper on considering &lt;a href=&#34;/publication/wohlrab-2024-profes/&#34;&gt;human values in software engineering&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[September 2024] Papers accepted at &lt;a href=&#34;https://conf.researchr.org/home/profes-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROFES&lt;/a&gt; (1) a study on &lt;a href=&#34;//localhost:1313/publication/svensson-2024/&#34;&gt;developing secure web applications&lt;/a&gt;, (2) a vision paper on considering &lt;a href=&#34;//localhost:1313/publication/wohlrab-2024-profes/&#34;&gt;human values in software engineering&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[August 2024]&lt;/strong&gt; I will be serving on the program committee for &lt;a href=&#34;https://icsa-conferences.org/2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA 2025&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[August 2024]&lt;/strong&gt; My new PhD student Matei Schiopu is starting this month. Welcome to our group! :)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[August 2024]&lt;/strong&gt; I will be serving on the program committee for &lt;a href=&#34;https://conf.researchr.org/home/seams-2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEAMS 2025&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[July 2024]&lt;/strong&gt; Paper accepted at AI4AS. More information can be found &lt;a href=&#34;/publication/groner-2024-aias/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[July 2024]&lt;/strong&gt; Papers accepted at &lt;a href=&#34;/publication/liebel-2024-sosym/&#34;&gt;SoSyM&lt;/a&gt; and &lt;a href=&#34;/publication/welzel-2024-seaa/&#34;&gt;SEAA&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[June 2024]&lt;/strong&gt; Paper accepted at ECSA&#39;24. More information about the paper can be found &lt;a href=&#34;/publication/ahmeti-2024-ecsa/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[May 2024]&lt;/strong&gt; &lt;a href=&#34;/publication/holtmann-2024-sosym/&#34;&gt;Paper&lt;/a&gt; accepted to the &lt;a href=&#34;https://link.springer.com/journal/10270/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoSyM journal&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[May 2024]&lt;/strong&gt; Paper accepted at &lt;a href=&#34;https://www.ares-conference.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARES&#39;24&lt;/a&gt;. The preprint can be found &lt;a href=&#34;/publication/welzel-2024-ares/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[April 2024]&lt;/strong&gt; Paper accepted at &lt;a href=&#34;https://2024.esec-fse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FSE&#39;24&lt;/a&gt;. More information about the paper can be found &lt;a href=&#34;/publication/oqvist-2024-fse/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[July 2024]&lt;/strong&gt; Paper accepted at AI4AS. More information can be found &lt;a href=&#34;//localhost:1313/publication/groner-2024-aias/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[July 2024]&lt;/strong&gt; Papers accepted at &lt;a href=&#34;//localhost:1313/publication/liebel-2024-sosym/&#34;&gt;SoSyM&lt;/a&gt; and &lt;a href=&#34;//localhost:1313/publication/welzel-2024-seaa/&#34;&gt;SEAA&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[June 2024]&lt;/strong&gt; Paper accepted at ECSA&#39;24. More information about the paper can be found &lt;a href=&#34;//localhost:1313/publication/ahmeti-2024-ecsa/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[May 2024]&lt;/strong&gt; &lt;a href=&#34;//localhost:1313/publication/holtmann-2024-sosym/&#34;&gt;Paper&lt;/a&gt; accepted to the &lt;a href=&#34;https://link.springer.com/journal/10270/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoSyM journal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[May 2024]&lt;/strong&gt; Paper accepted at &lt;a href=&#34;https://www.ares-conference.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARES&#39;24&lt;/a&gt;. The preprint can be found &lt;a href=&#34;//localhost:1313/publication/welzel-2024-ares/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[April 2024]&lt;/strong&gt; Paper accepted at &lt;a href=&#34;https://2024.esec-fse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FSE&#39;24&lt;/a&gt;. More information about the paper can be found &lt;a href=&#34;//localhost:1313/publication/oqvist-2024-fse/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[April 2024]&lt;/strong&gt; My new postdoc Raffaela Groner has started. Welcome to Sweden and to our group! :)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[March 2024]&lt;/strong&gt; I gave a talk at the seminar series of &lt;a href=&#34;https://www.tecosa.center.kth.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TECoSA&lt;/a&gt; - a Center for Trustworthy Edge Computing Systems and Applications at KTH in Stockholm.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[February 2024]&lt;/strong&gt; We got a paper accepted at &lt;a href=&#34;https://conf.researchr.org/home/icsa-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA&#39;24&lt;/a&gt;. It is called &lt;a href=&#34;/publication/anthony-2024-icsa/&#34;&gt;We&amp;rsquo;re Drifting Apart: Architectural Drift from the Developers&amp;rsquo; Perspective&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[February 2024]&lt;/strong&gt; Paper accepted at &lt;a href=&#34;https://2024.refsq.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;REFSQ&lt;/a&gt;. You can find a preprint &lt;a href=&#34;/publication/wohlrab-2024-refsq/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[January 2024]&lt;/strong&gt; Paper accepted at Designing, a workshop at ICSE. You can find more information &lt;a href=&#34;/publication/garlan-2024/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[February 2024]&lt;/strong&gt; We got a paper accepted at &lt;a href=&#34;https://conf.researchr.org/home/icsa-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA&#39;24&lt;/a&gt;. It is called &lt;a href=&#34;//localhost:1313/publication/anthony-2024-icsa/&#34;&gt;We&amp;rsquo;re Drifting Apart: Architectural Drift from the Developers&amp;rsquo; Perspective&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[February 2024]&lt;/strong&gt; Paper accepted at &lt;a href=&#34;https://2024.refsq.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;REFSQ&lt;/a&gt;. You can find a preprint &lt;a href=&#34;//localhost:1313/publication/wohlrab-2024-refsq/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[January 2024]&lt;/strong&gt; Paper accepted at Designing, a workshop at ICSE. You can find more information &lt;a href=&#34;//localhost:1313/publication/garlan-2024/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[January 2024]&lt;/strong&gt; I got the &lt;a href=&#34;https://www.linkedin.com/posts/wasp-wallenberg-ai-autonomous-systems-and-software-program_waspwinterconference2024-wasp-activity-7150951094175621120-QUQI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WASP alumni of the year award&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[January 2024]&lt;/strong&gt; Two new papers are accepted for publication in IEEE Software. &lt;a href=&#34;/publication/camara-2024&#34;&gt;One of them&lt;/a&gt; focuses on our techniques to explain quality tradeoffs, which we applied in several open source projects and companies. &lt;a href=&#34;/publication/santilli-2024&#34;&gt;The other one&lt;/a&gt; deals with what &amp;ldquo;continuous compliance&amp;rdquo; is and how it can be achieved in the automotive industry.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[January 2024]&lt;/strong&gt; Two new papers are accepted for publication in IEEE Software. &lt;a href=&#34;//localhost:1313/publication/camara-2024&#34;&gt;One of them&lt;/a&gt; focuses on our techniques to explain quality tradeoffs, which we applied in several open source projects and companies. &lt;a href=&#34;//localhost:1313/publication/santilli-2024&#34;&gt;The other one&lt;/a&gt; deals with what &amp;ldquo;continuous compliance&amp;rdquo; is and how it can be achieved in the automotive industry.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[December 2023]&lt;/strong&gt; I&amp;rsquo;m hiring a postdoc. You can find the announcement &lt;a href=&#34;https://www.chalmers.se/om-chalmers/arbeta-hos-oss/lediga-tjanster/?rmpage=job&amp;amp;rmjob=12432&amp;amp;rmlang=SE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The deadline is on January 24, 2024.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[December 2023]&lt;/strong&gt; I&amp;rsquo;m hiring up to two new PhD students. &lt;a href=&#34;https://www.chalmers.se/om-chalmers/arbeta-hos-oss/lediga-tjanster/?rmpage=job&amp;amp;rmjob=12365&amp;amp;rmlang=SE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt; is the announcement with more information and a link to the application portal. You can apply until January 10. Looking forward to great applications!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[October 2023]&lt;/strong&gt; The proposal for our &lt;a href=&#34;https://wasp-sweden.org/nest-environments/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WASP NEST&lt;/a&gt; was accepted. It is called ShiftLeft: Securing the Software Supply Chain by Code-centric Analysis.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[October 2023]&lt;/strong&gt; I am going to be a workshop co-chair at &lt;a href=&#34;https://2024.acsos.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACSOS&#39;24&lt;/a&gt;. Looking forward to great workshop proposals!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[October 2023]&lt;/strong&gt; I served as the external reviewer/&lt;a href=&#34;https://studentportal.bth.se/en/doctoral-studies/doctoral-student-portal/thesis-and-defence/public-defence/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;opponent&lt;/a&gt; at Raquel Ouriques&amp;rsquo;s PhD defense at Blekinge Tekniska Högskola.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[September 2023]&lt;/strong&gt; Andres Diaz-Pace, David Garlan, and I won the Best Paper Award for our &lt;a href=&#34;/publication/diazpace-2023-ecsa&#34;&gt;ECSA 2023 paper&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[September 2023]&lt;/strong&gt; Andres Diaz-Pace, David Garlan, and I won the Best Paper Award for our &lt;a href=&#34;//localhost:1313/publication/diazpace-2023-ecsa&#34;&gt;ECSA 2023 paper&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[September 2023]&lt;/strong&gt; I&amp;rsquo;ve accepted to serve on the program committee for the Artifact Track of &lt;a href=&#34;https://conf.researchr.org/home/seams-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEAMS 2024&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[August 2023]&lt;/strong&gt; I will be on the program committee for &lt;a href=&#34;https://icsa-conferences.org/2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA 2024&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[June 2023]&lt;/strong&gt; Our &lt;a href=&#34;https://conf.researchr.org/home/ecsa-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECSA&#39;23&lt;/a&gt; paper was accepted. It is called &amp;ldquo;Supporting the Exploration of Quality Attribute Tradeoffs in Large Design Spaces&amp;rdquo; (with Andres Diaz Pace and David Garlan).&lt;/p&gt;
@@ -429,24 +429,24 @@
 &lt;p&gt;&lt;strong&gt;[November 2022]&lt;/strong&gt; Javier Cámara, Bradley Schmerl, David Garlan, and I got a paper accepted to the Journal of Systems and Software (JSS). It is called &amp;ldquo;ExTrA: Explaining Architectural Design Tradeoff Spaces via Dimensionality Reduction&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[October 2022]&lt;/strong&gt; I will give a talk at the &lt;a href=&#34;https://www.cse.chalmers.se/research/group/security/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chalmers Security &amp;amp; Privacy Seminar&lt;/a&gt; later this month (Oct 20). Come and join if you&amp;rsquo;re in Gothenburg!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[October 2022]&lt;/strong&gt; A new article about my research and career has been published on the &lt;a href=&#34;https://wasp-sweden.org/helping-self-adaptive-systems-and-humans-understand-each-other/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WASP homepage&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[October 2022]&lt;/strong&gt; Our paper &lt;a href=&#34;/publication/wohlrab-2023-jss&#34;&gt;Explaining Quality Attribute Tradeoffs in Automated Planning for Self-Adaptive Systems&lt;/a&gt; got accepted to the &lt;a href=&#34;https://www.sciencedirect.com/journal/journal-of-systems-and-software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Systems and Software (JSS)&lt;/a&gt;. You can find a preprint &lt;a href=&#34;/files/2022_explaining_tradeoffs.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[October 2022]&lt;/strong&gt; Our paper &lt;a href=&#34;//localhost:1313/publication/wohlrab-2023-jss&#34;&gt;Explaining Quality Attribute Tradeoffs in Automated Planning for Self-Adaptive Systems&lt;/a&gt; got accepted to the &lt;a href=&#34;https://www.sciencedirect.com/journal/journal-of-systems-and-software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Systems and Software (JSS)&lt;/a&gt;. You can find a preprint &lt;a href=&#34;//localhost:1313/files/2022_explaining_tradeoffs.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; I will be serving on the program committee for &lt;a href=&#34;https://conf.researchr.org/home/seams-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEAMS 2023&lt;/a&gt;. We&amp;rsquo;re looking forward to your submissions!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; Very happy that our paper &lt;a href=&#34;/publication/vierhauser-2023-jss/&#34;&gt;AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems&lt;/a&gt; got accepted to the Journal of Systems and Software (JSS). It is based on a collaboration with Michael Vierhauser, Marco Stadler, and Jane Cleland-Huang. A preprint can be found &lt;a href=&#34;https://rumors-cloud.se.jku.at/s/KxDmEswqEw3g6Jm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; Our paper &lt;a href=&#34;/publication/vierhauser-2022-cns/&#34;&gt;Towards Cost-Benefit-Aware Adaptive Monitoring for Cyber-Physical Systems&lt;/a&gt; got accepted to the Conference on Communications and Network Security (CNS): Cyber Resilience Workshop (with Michael Vierhauser and Stefan Rass).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; Very happy that our paper &lt;a href=&#34;//localhost:1313/publication/vierhauser-2023-jss/&#34;&gt;AMon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems&lt;/a&gt; got accepted to the Journal of Systems and Software (JSS). It is based on a collaboration with Michael Vierhauser, Marco Stadler, and Jane Cleland-Huang. A preprint can be found &lt;a href=&#34;https://rumors-cloud.se.jku.at/s/KxDmEswqEw3g6Jm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[September 2022]&lt;/strong&gt; Our paper &lt;a href=&#34;//localhost:1313/publication/vierhauser-2022-cns/&#34;&gt;Towards Cost-Benefit-Aware Adaptive Monitoring for Cyber-Physical Systems&lt;/a&gt; got accepted to the Conference on Communications and Network Security (CNS): Cyber Resilience Workshop (with Michael Vierhauser and Stefan Rass).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[July 2022]&lt;/strong&gt; I will be serving on the program committees for &lt;a href=&#34;https://conf.researchr.org/home/RE-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RE&#39;23&lt;/a&gt; and &lt;a href=&#34;https://icsa-conferences.org/2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA 2023&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[June 2022]&lt;/strong&gt; After two great years at CMU, I will be starting as an Assistant Professor at Chalmers University of Technology in August 2022. Very happy about this new position and I&amp;rsquo;m looking forward to returning to Sweden!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[April 2022]&lt;/strong&gt; I will be serving on the program committee for &lt;a href=&#34;https://conf.researchr.org/track/icse-2023/icse-2023-SEIP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSE SEIP 2023&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[March 2022]&lt;/strong&gt; Our &lt;a href=&#34;https://conf.researchr.org/home/seams-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEAMS 2022&lt;/a&gt; paper got accepted: &lt;a href=&#34;/publication/wohlrab-2022-seams/&#34;&gt;Run-Time Adaptation of Quality Attributes for Automated Planning&lt;/a&gt;. You can find the preprint &lt;a href=&#34;https://rebekkaa.github.io/files/Wohlrab2022-SEAMS-RuntimeQA-v1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[March 2022]&lt;/strong&gt; Our &lt;a href=&#34;https://conf.researchr.org/home/seams-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEAMS 2022&lt;/a&gt; paper got accepted: &lt;a href=&#34;//localhost:1313/publication/wohlrab-2022-seams/&#34;&gt;Run-Time Adaptation of Quality Attributes for Automated Planning&lt;/a&gt;. You can find the preprint &lt;a href=&#34;https://rebekkaa.github.io/files/Wohlrab2022-SEAMS-RuntimeQA-v1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[December 2021]&lt;/strong&gt; I&amp;rsquo;ve accepted to serve as a PC Co-Chair for the Industry Track at &lt;a href=&#34;https://conf.researchr.org/home/ease-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EASE 2022&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[November 2021]&lt;/strong&gt; Our journal paper &lt;a href=&#34;/publication/wohlrab-2021-rej/&#34;&gt;A Negotiation Support System for Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems&lt;/a&gt; got accepted to &lt;a href=&#34;https://www.springer.com/journal/766/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Requirements Engineering&lt;/a&gt;. It&amp;rsquo;s an invited extension of our &lt;a href=&#34;/publication/wohlrab-2021-refsq/&#34;&gt;REFSQ&#39;21 paper&lt;/a&gt;. Check out the preprint &lt;a href=&#34;/files/2021_Wohlrab_utility_negotiation_accepted.pdf&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[November 2021]&lt;/strong&gt; Our journal paper &lt;a href=&#34;//localhost:1313/publication/wohlrab-2021-rej/&#34;&gt;A Negotiation Support System for Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems&lt;/a&gt; got accepted to &lt;a href=&#34;https://www.springer.com/journal/766/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Requirements Engineering&lt;/a&gt;. It&amp;rsquo;s an invited extension of our &lt;a href=&#34;//localhost:1313/publication/wohlrab-2021-refsq/&#34;&gt;REFSQ&#39;21 paper&lt;/a&gt;. Check out the preprint &lt;a href=&#34;//localhost:1313/files/2021_Wohlrab_utility_negotiation_accepted.pdf&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[September 2021]&lt;/strong&gt; I have accepted to serve on the program committees for &lt;a href=&#34;https://resources.sei.cmu.edu/news-events/events/icssp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSSP/ICGSE&#39;22&lt;/a&gt; and the &lt;a href=&#34;https://ase-workshop.github.io/2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automotive Software Engineering Workshop 2022&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[August 2021]&lt;/strong&gt; I will be on the program committee for &lt;a href=&#34;https://icsa-conferences.org/2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA 2022&lt;/a&gt;. I also accepted to serve as a Co-Chair of the Poster and Tool Demo track at &lt;a href=&#34;https://conf.researchr.org/home/RE-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RE 2022&lt;/a&gt;. We&amp;rsquo;re looking forward to your submissions.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[April 2021]&lt;/strong&gt; I have accepted to serve as the publication co-chair for &lt;a href=&#34;https://icsa-conferences.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA&#39;22&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[March 2021]&lt;/strong&gt; ICSA was a lot of fun. We had great discussions on our two papers and I chaired an interesting session on architecture evolution. I also got an award for being the best &lt;a href=&#34;https://skribbl.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Skribbl.io&lt;/a&gt; player at the conference - what an honor! :)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[January 2021]&lt;/strong&gt; We got an &lt;a href=&#34;https://icsa-conferences.org/2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA&lt;/a&gt; paper accepted: &lt;a href=&#34;/publication/bucaioni-2021/&#34;&gt;Aligning Architecture with Business Goals in the Automotive Domain&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[January 2021]&lt;/strong&gt; Our submission of a journal-first paper to &lt;a href=&#34;https://icsa-conferences.org/2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA&lt;/a&gt; has been accepted. Stay tuned for our upcoming presentation on &lt;a href=&#34;/publication/wohlrab-2020-ieee-software/&#34;&gt;Why and How Your Traceability Should Evolve: Insights from an Automotive Supplier&lt;/a&gt;, published in IEEE Software.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[January 2021]&lt;/strong&gt; We got an &lt;a href=&#34;https://icsa-conferences.org/2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA&lt;/a&gt; paper accepted: &lt;a href=&#34;//localhost:1313/publication/bucaioni-2021/&#34;&gt;Aligning Architecture with Business Goals in the Automotive Domain&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[January 2021]&lt;/strong&gt; Our submission of a journal-first paper to &lt;a href=&#34;https://icsa-conferences.org/2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSA&lt;/a&gt; has been accepted. Stay tuned for our upcoming presentation on &lt;a href=&#34;//localhost:1313/publication/wohlrab-2020-ieee-software/&#34;&gt;Why and How Your Traceability Should Evolve: Insights from an Automotive Supplier&lt;/a&gt;, published in IEEE Software.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[January 2021]&lt;/strong&gt; I have accepted to serve as the proceedings chair for &lt;a href=&#34;https://conf.researchr.org/home/seams-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEAMS 2022&lt;/a&gt;. We&amp;rsquo;ll be looking forward to your submissions!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[January 2021]&lt;/strong&gt; Our paper on &lt;a href=&#34;/publication/wohlrab-2021-refsq/&#34;&gt;Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems&lt;/a&gt; got accepted to the International Working Conference on Requirement Engineering: Foundation for Software Quality (&lt;a href=&#34;https://2021.refsq.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;REFSQ&#39;21&lt;/a&gt;). Preprint &lt;a href=&#34;/files/2021_REFSQ_WohlrabGarlan.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[January 2021]&lt;/strong&gt; Our paper on &lt;a href=&#34;//localhost:1313/publication/wohlrab-2021-refsq/&#34;&gt;Defining Utility Functions for Multi-Stakeholder Self-Adaptive Systems&lt;/a&gt; got accepted to the International Working Conference on Requirement Engineering: Foundation for Software Quality (&lt;a href=&#34;https://2021.refsq.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;REFSQ&#39;21&lt;/a&gt;). Preprint &lt;a href=&#34;//localhost:1313/files/2021_REFSQ_WohlrabGarlan.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[January 2021]&lt;/strong&gt; Happy new year! I&amp;rsquo;m adding this news section to keep you informed about my research.&lt;/p&gt;
 
 </description>
@@ -454,9 +454,9 @@
     
     <item>
       <title>Research</title>
-      <link>/research/</link>
+      <link>//localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/research/</guid>
+      <guid>//localhost:1313/research/</guid>
       <description></description>
     </item>
     
