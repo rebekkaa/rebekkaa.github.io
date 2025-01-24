@@ -21,10 +21,34 @@
     </item>
     
     <item>
+      <title>Dynamic Resolution of Requirement Conflicts in Robot Mission Planning</title>
+      <link>/publication/garciadiaz-2025-refsq/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/garciadiaz-2025-refsq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending Behavior Trees for Robotic Missions with Quality Requirements</title>
+      <link>/publication/ghzouli-2025-refsq/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/ghzouli-2025-refsq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Quality Trade-Offs in ML-Enabled Systems: A Multiple Case Study</title>
       <link>/publication/indykov-2025-sac/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/publication/indykov-2025-sac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Value-Complemented Monitoring Framework for Humans in Cyber-Physical Systems</title>
+      <link>/publication/pfister-2025-refsq/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/pfister-2025-refsq/</guid>
       <description></description>
     </item>
     
@@ -410,7 +434,8 @@
 
 
 
-&lt;p&gt;&lt;strong&gt;[January 2025]&lt;/strong&gt; Paper accepted at &lt;a href=&#34;https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-society&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSE-SEIS&lt;/a&gt;. More information about the paper can be found &lt;a href=&#34;/publication/schneider-2025/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[January 2025]&lt;/strong&gt; Paper accepted at &lt;a href=&#34;https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-society&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSE-SEIS&lt;/a&gt;. More information and a preprint can be found &lt;a href=&#34;/publication/schneider-2025/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[January 2025]&lt;/strong&gt; Papers accepted at &lt;a href=&#34;https://2025.refsq.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;REFSQ&lt;/a&gt;. One presents an &lt;a href=&#34;/publication/garciadiaz-2025-refsq/&#34;&gt;adaptive approach for resolving requirements conflicts&lt;/a&gt;, one is about &lt;a href=&#34;/publication/pfister-2025-refsq/&#34;&gt;integrating human values into requirements engineering for runtime monitoring&lt;/a&gt;, and one is about &lt;a href=&#34;/publication/ghzouli-2025-refsq/&#34;&gt;extending behavior trees for robotics with quality requirements&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[December 2024]&lt;/strong&gt; Klara Svensson, Drake Axelrod, Mazen Mohamad, and I won the Best Paper Award for our &lt;a href=&#34;/publication/svensson-2024&#34;&gt;PROFES 2024 paper&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[November 2024]&lt;/strong&gt; Paper accepted at &lt;a href=&#34;https://satta.polimi.it/2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAC&#39;25&lt;/a&gt;. More information about the paper can be found &lt;a href=&#34;/publication/indykov-2025-sac/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[November 2024]&lt;/strong&gt; I got a Starting Grant from &lt;a href=&#34;https://www.vr.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VR&lt;/a&gt; (the Swedish Research Council).&lt;/p&gt;
