@@ -1,13 +1,13 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: February 26, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: June 9, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="light">
   
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
+  <meta name="generator" content="Hugo Blox Builder 0.3.2" />
 
   
   
@@ -44,7 +44,7 @@
   <meta name="description" content="" />
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/wohlrab-2020-ieee-software/" />
+  <link rel="alternate" hreflang="en-us" href="//localhost:1313/publication/wohlrab-2020-ieee-software/" />
 
   
   
@@ -57,7 +57,7 @@
   
   
     
-    <link href="/dist/wc.min.css" rel="stylesheet" />
+    <link href="/dist/wc.min.05570f1deda629d4e2d77f73534a63aa04471f012db6735c59424372f467db85.css" rel="stylesheet" />
   
 
   
@@ -164,7 +164,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu514210543041296602.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu15309766016176969463.png" />
 
-  <link rel="canonical" href="/publication/wohlrab-2020-ieee-software/" />
+  <link rel="canonical" href="//localhost:1313/publication/wohlrab-2020-ieee-software/" />
 
   
   
@@ -190,10 +190,10 @@
     <meta property="twitter:creator" content="@rebekkawohlrab" />
   
   <meta property="og:site_name" content="Rebekka Wohlrab" />
-  <meta property="og:url" content="/publication/wohlrab-2020-ieee-software/" />
+  <meta property="og:url" content="//localhost:1313/publication/wohlrab-2020-ieee-software/" />
   <meta property="og:title" content="Why and How Your Traceability Should Evolve: Insights from an Automotive Supplier | Rebekka Wohlrab" />
-  <meta property="og:description" content="" /><meta property="og:image" content="/media/icon_hu15982611272951754077.png" />
-    <meta property="twitter:image" content="/media/icon_hu15982611272951754077.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="" /><meta property="og:image" content="//localhost:1313/media/icon_hu15982611272951754077.png" />
+    <meta property="twitter:image" content="//localhost:1313/media/icon_hu15982611272951754077.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -223,7 +223,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/wohlrab-2020-ieee-software/"
+    "@id": "//localhost:1313/publication/wohlrab-2020-ieee-software/"
   },
   "headline": "Why and How Your Traceability Should Evolve: Insights from an Automotive Supplier",
   
@@ -240,7 +240,7 @@
     "name": "Rebekka Wohlrab",
     "logo": {
       "@type": "ImageObject",
-      "url": "/media/icon_hu4802325803368537245.png"
+      "url": "//localhost:1313/media/icon_hu4802325803368537245.png"
     }
   },
   "description": ""
@@ -279,6 +279,10 @@
   
 
 
+  
+  
+  
+  
   
   
   
@@ -600,40 +604,67 @@
     --pagefind-ui-border: #152028;
     --pagefind-ui-tag: #152028;
   }
+
+   
+  .search-close > svg {
+    height: calc(64px * var(--pagefind-ui-scale));
+    width: calc(64px * var(--pagefind-ui-scale));
+  }
 </style>
 
 <script>
+  
+  let searchWrapper = null;
+
   window.addEventListener('DOMContentLoaded', (event) => {
+    
     new PagefindUI({
       element: "#search",
       showSubResults: true,
       baseUrl: window.hbb.pagefind.baseUrl,
       bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
     });
+
+    
+    searchWrapper = document.getElementById('search-wrapper');
+
+    
+    let triggers = document.querySelectorAll('[data-search-toggle]');
+    triggers.forEach(trigger =>
+      trigger.addEventListener('click', handleSearchToggle)
+    );
   });
-  document.addEventListener('DOMContentLoaded', () => {
-    let element = document.getElementById('search');
-    let trigger = document.getElementById('search_toggle');
 
-    if (trigger) {
-      trigger.addEventListener('click', () => {
-        element.classList.toggle('hidden');
-        element.querySelector("input").value = ""
-        element.querySelector("input").focus()
+  function handleSearchToggle(event) {
+    if (!searchWrapper) return;
 
-        if (!element.classList.contains('hidden')) {
-          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+    const isHidden = searchWrapper.classList.contains('hidden');
+    searchWrapper.classList.toggle('hidden');
+    document.body.style.overflow = isHidden ? 'hidden' : '';
 
-          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
-            clear_trigger.setAttribute('listenerOnClick', 'true');
+    const searchInput = searchWrapper.querySelector("input");
+    if (searchInput) {
+      searchInput.value = "";
+      searchInput.focus();
+    }
 
-            clear_trigger.addEventListener('click', () => {
-              element.classList.toggle('hidden');
-            });
-          }
-        }
+    if (!searchWrapper.classList.contains('hidden')) {
+      let clearTrigger = document.querySelector('.pagefind-ui__search-clear');
 
-      });
+      if (clearTrigger && !clearTrigger.hasAttribute('listenerOnClick')) {
+        clearTrigger.setAttribute('listenerOnClick', 'true');
+
+        clearTrigger.addEventListener('click', () => {
+          searchInput.focus();
+        });
+      }
+    }
+  }
+
+  
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && searchWrapper && !searchWrapper.classList.contains('hidden')) {
+      searchWrapper.classList.add('hidden');
     }
   });
 </script>
@@ -661,8 +692,8 @@
   
   <script
     defer
-    src="/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
-    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
   ></script>
 
   
@@ -779,6 +810,14 @@
     href="/publication/pfister-2025-refsq/"
     
   >Towards a Value-Complemented Monitoring Framework for Humans in Cyber-Physical Systems
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publication/ghzouli-2025-etfa/"
+    
+  >Using Behavior Trees in Risk Assessment
     </a>
               
             </li><li class="flex flex-col "><a
@@ -907,6 +946,14 @@
     href="/publication/wohlrab-2023-jss/"
     
   >Explaining Quality Attribute Tradeoffs in Automated Planning for Self-Adaptive Systems
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publication/ahmeti-2023/"
+    
+  >Exploring the Adoption and Effectiveness of Architecture Decision Records in Agile Software Development: An Action Research Study
     </a>
               
             </li><li class="flex flex-col "><a
@@ -1218,7 +1265,7 @@
       <div class="mb-4">
         <div class="mt-1.5 flex items-center gap-1 overflow-hidden text-sm text-gray-500 dark:text-gray-400">
       <div class="whitespace-nowrap transition-colors min-w-[24px] overflow-hidden text-ellipsis hover:text-gray-900 dark:hover:text-gray-100">
-        <a href="/publication/">Publications</a>
+        <a href="//localhost:1313/publication/">Publications</a>
       </div><svg class="w-3.5 shrink-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m8.25 4.5l7.5 7.5l-7.5 7.5"/></svg><div class="whitespace-nowrap font-medium text-gray-700 dark:text-gray-100">Why and How Your Traceability Should Evolve: Insights from an Automotive Supplier</div>
 </div>
 
@@ -1396,7 +1443,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://twitter.com/intent/tweet?url=%2Fpublication%2Fwohlrab-2020-ieee-software%2F&amp;text=Why&#43;and&#43;How&#43;Your&#43;Traceability&#43;Should&#43;Evolve%3A&#43;Insights&#43;from&#43;an&#43;Automotive&#43;Supplier"
+    href="https://twitter.com/intent/tweet?url=%2F%2Flocalhost%3A1313%2Fpublication%2Fwohlrab-2020-ieee-software%2F&amp;text=Why&#43;and&#43;How&#43;Your&#43;Traceability&#43;Should&#43;Evolve%3A&#43;Insights&#43;from&#43;an&#43;Automotive&#43;Supplier"
     title="X"
     aria-label="X"
     id="share-link-x"
@@ -1414,7 +1461,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.facebook.com/sharer.php?u=%2Fpublication%2Fwohlrab-2020-ieee-software%2F&amp;t=Why&#43;and&#43;How&#43;Your&#43;Traceability&#43;Should&#43;Evolve%3A&#43;Insights&#43;from&#43;an&#43;Automotive&#43;Supplier"
+    href="https://www.facebook.com/sharer.php?u=%2F%2Flocalhost%3A1313%2Fpublication%2Fwohlrab-2020-ieee-software%2F&amp;t=Why&#43;and&#43;How&#43;Your&#43;Traceability&#43;Should&#43;Evolve%3A&#43;Insights&#43;from&#43;an&#43;Automotive&#43;Supplier"
     title="Facebook"
     aria-label="Facebook"
     id="share-link-facebook"
@@ -1434,7 +1481,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="mailto:?subject=Why%20and%20How%20Your%20Traceability%20Should%20Evolve%3A%20Insights%20from%20an%20Automotive%20Supplier&amp;body=%2Fpublication%2Fwohlrab-2020-ieee-software%2F"
+    href="mailto:?subject=Why%20and%20How%20Your%20Traceability%20Should%20Evolve%3A%20Insights%20from%20an%20Automotive%20Supplier&amp;body=%2F%2Flocalhost%3A1313%2Fpublication%2Fwohlrab-2020-ieee-software%2F"
     title="Email"
     aria-label="Email"
     id="share-link-email"
@@ -1452,7 +1499,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.linkedin.com/shareArticle?url=%2Fpublication%2Fwohlrab-2020-ieee-software%2F&amp;title=Why&#43;and&#43;How&#43;Your&#43;Traceability&#43;Should&#43;Evolve%3A&#43;Insights&#43;from&#43;an&#43;Automotive&#43;Supplier"
+    href="https://www.linkedin.com/shareArticle?url=%2F%2Flocalhost%3A1313%2Fpublication%2Fwohlrab-2020-ieee-software%2F&amp;title=Why&#43;and&#43;How&#43;Your&#43;Traceability&#43;Should&#43;Evolve%3A&#43;Insights&#43;from&#43;an&#43;Automotive&#43;Supplier"
     title="LinkedIn"
     aria-label="LinkedIn"
     id="share-link-linkedin"
@@ -1470,7 +1517,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="whatsapp://send?text=Why&#43;and&#43;How&#43;Your&#43;Traceability&#43;Should&#43;Evolve%3A&#43;Insights&#43;from&#43;an&#43;Automotive&#43;Supplier%20%2Fpublication%2Fwohlrab-2020-ieee-software%2F"
+    href="whatsapp://send?text=Why&#43;and&#43;How&#43;Your&#43;Traceability&#43;Should&#43;Evolve%3A&#43;Insights&#43;from&#43;an&#43;Automotive&#43;Supplier%20%2F%2Flocalhost%3A1313%2Fpublication%2Fwohlrab-2020-ieee-software%2F"
     title="WhatsApp"
     aria-label="WhatsApp"
     id="share-link-whatsapp"

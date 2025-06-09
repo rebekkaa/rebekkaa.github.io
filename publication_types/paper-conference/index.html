@@ -1,13 +1,13 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: February 26, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: June 9, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="light">
   
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
+  <meta name="generator" content="Hugo Blox Builder 0.3.2" />
 
   
   
@@ -44,7 +44,7 @@
   <meta name="description" content="Rebekka Wohlrab" />
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication_types/paper-conference/" />
+  <link rel="alternate" hreflang="en-us" href="//localhost:1313/publication_types/paper-conference/" />
 
   
   
@@ -57,7 +57,7 @@
   
   
     
-    <link href="/dist/wc.min.css" rel="stylesheet" />
+    <link href="/dist/wc.min.05570f1deda629d4e2d77f73534a63aa04471f012db6735c59424372f467db85.css" rel="stylesheet" />
   
 
   
@@ -166,7 +166,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu514210543041296602.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu15309766016176969463.png" />
 
-  <link rel="canonical" href="/publication_types/paper-conference/" />
+  <link rel="canonical" href="//localhost:1313/publication_types/paper-conference/" />
 
   
   
@@ -192,10 +192,10 @@
     <meta property="twitter:creator" content="@rebekkawohlrab" />
   
   <meta property="og:site_name" content="Rebekka Wohlrab" />
-  <meta property="og:url" content="/publication_types/paper-conference/" />
+  <meta property="og:url" content="//localhost:1313/publication_types/paper-conference/" />
   <meta property="og:title" content="Paper-Conference | Rebekka Wohlrab" />
-  <meta property="og:description" content="Rebekka Wohlrab" /><meta property="og:image" content="/media/icon_hu15982611272951754077.png" />
-    <meta property="twitter:image" content="/media/icon_hu15982611272951754077.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Rebekka Wohlrab" /><meta property="og:image" content="//localhost:1313/media/icon_hu15982611272951754077.png" />
+    <meta property="twitter:image" content="//localhost:1313/media/icon_hu15982611272951754077.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2025-05-12T00:00:00&#43;00:00" />
@@ -234,6 +234,10 @@
   
 
 
+  
+  
+  
+  
   
   
   
@@ -555,40 +559,67 @@
     --pagefind-ui-border: #152028;
     --pagefind-ui-tag: #152028;
   }
+
+   
+  .search-close > svg {
+    height: calc(64px * var(--pagefind-ui-scale));
+    width: calc(64px * var(--pagefind-ui-scale));
+  }
 </style>
 
 <script>
+  
+  let searchWrapper = null;
+
   window.addEventListener('DOMContentLoaded', (event) => {
+    
     new PagefindUI({
       element: "#search",
       showSubResults: true,
       baseUrl: window.hbb.pagefind.baseUrl,
       bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
     });
+
+    
+    searchWrapper = document.getElementById('search-wrapper');
+
+    
+    let triggers = document.querySelectorAll('[data-search-toggle]');
+    triggers.forEach(trigger =>
+      trigger.addEventListener('click', handleSearchToggle)
+    );
   });
-  document.addEventListener('DOMContentLoaded', () => {
-    let element = document.getElementById('search');
-    let trigger = document.getElementById('search_toggle');
 
-    if (trigger) {
-      trigger.addEventListener('click', () => {
-        element.classList.toggle('hidden');
-        element.querySelector("input").value = ""
-        element.querySelector("input").focus()
+  function handleSearchToggle(event) {
+    if (!searchWrapper) return;
 
-        if (!element.classList.contains('hidden')) {
-          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+    const isHidden = searchWrapper.classList.contains('hidden');
+    searchWrapper.classList.toggle('hidden');
+    document.body.style.overflow = isHidden ? 'hidden' : '';
 
-          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
-            clear_trigger.setAttribute('listenerOnClick', 'true');
+    const searchInput = searchWrapper.querySelector("input");
+    if (searchInput) {
+      searchInput.value = "";
+      searchInput.focus();
+    }
 
-            clear_trigger.addEventListener('click', () => {
-              element.classList.toggle('hidden');
-            });
-          }
-        }
+    if (!searchWrapper.classList.contains('hidden')) {
+      let clearTrigger = document.querySelector('.pagefind-ui__search-clear');
 
-      });
+      if (clearTrigger && !clearTrigger.hasAttribute('listenerOnClick')) {
+        clearTrigger.setAttribute('listenerOnClick', 'true');
+
+        clearTrigger.addEventListener('click', () => {
+          searchInput.focus();
+        });
+      }
+    }
+  }
+
+  
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && searchWrapper && !searchWrapper.classList.contains('hidden')) {
+      searchWrapper.classList.add('hidden');
     }
   });
 </script>
@@ -616,8 +647,8 @@
   
   <script
     defer
-    src="/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
-    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
   ></script>
 
   
@@ -766,9 +797,9 @@
       
       
       <button
-        aria-label="search"
+        aria-label="toggle search"
         class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
-        id="search_toggle">
+        data-search-toggle>
         <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
       </button>
       
@@ -809,8 +840,26 @@
   </nav>
 </header>
 
+<div
+  id="search-wrapper"
+  class="hidden fixed inset-0 z-50 bg-white dark:bg-gray-900 flex flex-col overflow-hidden"
+>
+  <div class="flex justify-end p-3">
+    <button
+      aria-label="search"
+      class="search-close text-black hover:text-primary dark:text-white"
+      data-search-toggle
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
 
-<div id="search" class="hidden p-3"></div>
+  <div id="search" class="flex-1 overflow-y-auto p-3">
+    
+  </div>
+</div>
 
 
         
@@ -855,6 +904,30 @@
       <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
         </p>
       <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">May 12, 2025</p>
+    </div>
+  </div>
+</a>
+
+  
+  
+
+
+
+
+
+
+
+
+<a href="/publication/ghzouli-2025-etfa/"  class="mb-5">
+  <div class="md:flex">
+    <div class="md:flex-shrink-0 overflow-hidden">
+      
+    </div>
+    <div class="p-8">
+      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Using Behavior Trees in Risk Assessment</div>
+      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
+        </p>
+      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 2025</p>
     </div>
   </div>
 </a>
@@ -1044,30 +1117,6 @@
     </div>
     <div class="p-8">
       <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Supporting Early Architectural Decision-Making Through Tradeoff Analysis: A Study with Volvo Cars</div>
-      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
-        </p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 2024</p>
-    </div>
-  </div>
-</a>
-
-  
-  
-
-
-
-
-
-
-
-
-<a href="/publication/welzel-2024-seaa/"  class="mb-5">
-  <div class="md:flex">
-    <div class="md:flex-shrink-0 overflow-hidden">
-      
-    </div>
-    <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Not All Conflicts Are the Same: An Empirical Study of Requirement Conflicts in Practice</div>
       <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
         </p>
       <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 2024</p>
